@@ -6,11 +6,12 @@
 - Reakce na 2. světovou
     - Heydrichiáda
 - Ostatní autoři
+    - Bohumil Hrabal: Obsluhoval jsem anglického krále
+    - Jan Otčenášek: Romeo a Julie a tma
     - Arnošt Lustig
-    - Bohumil Hrabal
-    - Josef Škvorecký
-    - Karel Kryl
-    - Jaromír Nohavica
+    - Josef Škvorecký: Zbabělci
+    - Karel Kryl: Veličenstvo Kat
+    - Jaromír Nohavica: Dokud se zpívá
 
 ## Ladislav Fuks
 - Praha
@@ -28,16 +29,24 @@
     - Variace pro temnou strunu
         - Psychologický román
         - Všichni zápasí s temnou strunou v sobě
+    - Myši Natálie Mooshebrové
+        - Stará zvláštní žena
+        - Syn kriminálník, dcera prostitutka
     - Mí černovlasí bratří
         - Povídková sbírka
+        - Vrací se na gymnázium, kde mizí černovlasí bratři - židi
+        - Zeměpisář ztrapňuje židy
 - Časté motivy
     - 2. Světová
     - Holokaust, pocity žida
+    - Černý humor, strach
     - Souboj člověka se světem
     - Hrdinové jsou slabí
     - Neustále vracející motivy/postavy
+    - Kinda absurdita
 - Homosexuál - možná promítal do židů
     - spíš kvůli utlačovaným přátelům
+    - Otec ho považoval za změkčilého
 
 ## Ukázka
 - Zařazení do knihy

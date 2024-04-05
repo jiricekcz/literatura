@@ -6,12 +6,16 @@
     - Ztracená generace
     - Pražská německá literatura
         - Nejvýznamnější německá literární kolonie
-        - Golem, židé se necítí zdejší
+        - Gustav Meyrink
+            - Golem
+        - Max Brod
+            - Kafkův životní přítel
+            - Po jeho smrti publikoval Proces
+            - Hlídka (asi Kafka spoluautor)
+        - Rainer Maria Rilke
+        - Jung-Prag
     - Existencialismus
         - Taky kvůli WWI
-- Ostatní autoři
-    - Bohumil Hrabal
-    - Albert Camus
 
 ## Franz Kafka
 - Praha
@@ -19,14 +23,11 @@
 - Právník, pojišťovatel
 - Studium: Právničina
 - Necítil se ani židem, ani pražanem či němcem
+    - Hrdinové vystaveni represím
+    - Provokuje, znechucuje
 - Divnočlověk (komplikovaný s tátou a ženama)
+    - Nízké sebevědomí
 - Pražská německá literatura
-    - Max Brod
-        - Kafkův životní přítel
-        - Po jeho smrti publikoval Proces
-        - Hlídka (asi Kafka spoluautor)
-    - Rainer Maria Rilke
-    - Jung-Prag
 - Další díla
     - Proces
     - Zámek
@@ -34,6 +35,7 @@
     - Max Brod byl jakože trololo
 - Inspirace expresionismem s prvky fantazie a pesimismu
 - Zachycuje lidskou psychiku
+    - Existencialismus
 
 ## Ukázka
 - Zařazení do knihy

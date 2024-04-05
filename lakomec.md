@@ -6,9 +6,14 @@
     - Klasicismus
         - Vzhlížení k antickým vzorům
         - Střízlivý rozum, řád
-        - Jean de La Fontaine
-        - W.A. Mozart
-        - L. van Beethoven
+        - Francie
+            - Jean de La Fontaine
+        - Německo (Výmarská literatura)
+            - Johann Wolfgang von Goethe
+            - Friedrich Schiller
+        - Hudba
+            - W.A. Mozart
+            - L. van Beethoven
 
 ## Moliére
 - Vlastním jménem Jean-Baptiste Poquelin
