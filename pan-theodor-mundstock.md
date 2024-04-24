@@ -1,39 +1,61 @@
 # Pan Theodor Mundstock
 
 ## Literárně-historický kontext
-- 60. léta 20. stol.
-    - Po WWII.
+- 2. Etapa literatury 2. světové a holokaustu
+    - Každý buď sloužil režimu, nebo proti němu nebrojil
+    - Strach, hněv
+    - Reakce na 2. světovou
         - Heydrichiáda
-    - Doba normalizace
-    - Buď sloužil režimu, nebo proti němu nebrojil
-    - Inspirace
-    - Směry
-- Reakce na dobu
+    - 60. léta 20. stol.
+        - Normalizace
 - Ostatní autoři
-    - Bohumil Hrabal
-    - Arnošt Lustig
-    - Karel Kryl
-    - Jaromír Nohavica
+    - Bohumil Hrabal: Obsluhoval jsem anglického krále
+    - Jan Otčenášek: Romeo a Julie a tma
+    - Arnošt Lustig: Noc a naděje
+    - Josef Škvorecký: Zbabělci
+    - Karel Kryl: Veličenstvo Kat
+    - Jaromír Nohavica: Dokud se zpívá
 
 ## Ladislav Fuks
-- Místo
-- Narození - úmrtí
-- Povolání
-- Vzdělání
-    - Filozofie
-    - Psychologie
-    - Kultura umění
+- Praha
+- 1923 - 1994
+- Kádrový posudek -> Dělník na kasárnách
+- Studium filosofie, psychologie a dějin umění
 - Život
-    - Otec policista - přísný
-    - Na střední traumata
-        - Židé do koncentračních táborů
-        - Klasifikován za homosexuála - nepřijímán
+    - Přísný otec policista
+    - Střední škola
+        - Kamarádi židé odváženi do koncentráků
+        - Odsuzován za homosexualitu
     - Pracoval v Národním Divadle
         - Publikoval články
-- Proudy, kam je přiřazován
-    - ostatní autoři proudu
+- 2. etapa literatury 2. sv. v.
 - Další díla
-    - Spalovač mrtvol
+    - Pan Theodor Mundstock
+        - Žid se připravuje na cestu do koncentráku
+        - Absurdní konec
+    - Příběh kriminálního rady
+        - Pokus o detektivku
+    - Variace pro temnou strunu
+        - Psychologický román
+        - Všichni zápasí s temnou strunou v sobě
+    - Myši Natálie Mooshebrové
+        - Stará zvláštní žena
+        - Syn kriminálník, dcera prostitutka
+    - Mí černovlasí bratří
+        - Povídková sbírka
+        - Vrací se na gymnázium, kde mizí černovlasí bratři - židi
+        - Zeměpisář ztrapňuje židy
+- Časté motivy
+    - 2. Světová
+    - Holokaust, pocity žida
+    - Černý humor, strach
+    - Souboj člověka se světem
+    - Hrdinové jsou slabí
+    - Neustále vracející motivy/postavy
+    - Kinda absurdita
+- Homosexuál - možná promítal do židů
+    - spíš kvůli utlačovaným přátelům
+    - Otec ho považoval za změkčilého
 
 ## Ukázka
 - Zařazení do knihy
@@ -42,54 +64,72 @@
 
 ## Celé dílo
 - 1963
-- Literární řánr
-- Literární druh
-- Téma
+- Psychologický román
+- Epická próza
+- Pan Theodor Mundstock se vypořádává s budoucností v koncentračním táboře
 - Oprese, židé, koncentrační tábory
-- Zajímavosti
-
+ 
 ## Časoprostor
-- pol. 20. stol.
+- Pol. 20. stol. - Heydrichiáda
 - Praha
-- Vliv na děj
+- Děj je o utlačování židů - špatné prostředí
 
 ## Postavy
 - Theodor Mundstock
-    - Odlišný od ostatních, psychický problém z WWII.
-    - Schizofrenie (např. stín)
-- Stín
-- Slepička/ještěrka
+    - Skrze jeho specifický - technický, systematický způsob myšlení je předávána tehdejší doba
+        - Na vše se dokáže připravit
+        - Důležitý je postup, metoda
+    - Starší žid, který se docela socializuje
+        - Ostatní si ho váží
+        - Je veselý, chce ostatním pomoci
+        - Obecně myslí mnohem více na ostatní, než na sebe
+    - Schizofrenie 
+        - stín Mon
+        - Také si v hlavě odehrává spoustu scénářů z koncentračního tábora a vlaků
+    - 
+- Stín Mon
+    - Symbol pochyb, temných myšlenek
+    - (Ši)Mon
+        - Pochyby vůči sobě přicházejí kvůli lásce k ostatním, kvůli naději
+        - Proto Ši(Mon)
+- Šimon
+    - Symbol naděje, důvodu, proč vytrvat
+    - 15-letý veselý chlapec
+    - Váží si pana Theodora Mundstocka jako Boha, vzhlíží k němu
 
 ## Vypravěč
-- Forma (ich/er/du)
-- Typ (vševědoucí/osobní/autorský/oko kamery)
+- Er-forma
+- Typ osobní
 - Typy promluv
-    - Přímá/nepřímá
-    - Monolog/Dialog
+    - Spíše přímá
+    - Monolog i dialog
+        - Monology ztotožňování s osudem
 
 ## Kompozice
 - Chronologická
-- Rozložení kapitol
-- Dějství
+- 21 kapitol
+    - Oddělené události
 
 ## Jazyková vrstva
 - Spisovné
 - Německá slova
-- Slang (argot/žargon)
-- Sociální skupina postav + vliv na jazyk
+    - Němci mluví německy, ale je to přeloženo
+- Všichni jsou velmi slušní, hodní => spisovnost
 - Prostředky
-    - Expresivní slova (posraný firmy)
+    - Expresivní slova
+        - Němci jim pravidelně nadávají
     - Hyperbola
+    - Metafora
+        - Šimon, Mon
 
 ## Aktuálnost
-- Platí téma dodnes?
-- Novodobé adaptace?
+- Velmi důležité téma rozumění holokaustu - utlačování se děje pořád.
+    - Velký vzestup rasistického humoru.
 
 ## Vlastní interpretace
-- Názor
-- Interpretace děje
-- Myšlenka
+- Nejlepší kniha v mém seznamu
+- Hrůzy tehdejší doby - oprese nevinných, hodných lidí
+- Ne na vše se dá připravit
 
 ## Otázka na konec
-- Nemusí být odpověď na otázku
-- Něco k zamyšlení
+- Je přejetí autobusem způsob vyjádření, že pan Theodor Mundstock nemyslel dostatečně na sebe?

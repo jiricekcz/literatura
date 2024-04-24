@@ -130,6 +130,7 @@
 - Vulgární urážky - děvka
 - Všichni byli šlechtici - jazyk koresponduje
 - Prostředky
+    - Divadlo na divadle
     - Apostrof místo v
     - Obrazná vyjadření, metafory
         - Tamti dva hrají na Hamleta, jako na flétnu

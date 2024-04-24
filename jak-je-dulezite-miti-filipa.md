@@ -4,6 +4,8 @@
 - 2. polovina 19. století
     - Dekadence
         - Odproštění od společnosti
+    - Estetismus
+        - Preferuje krásu umění nad smyslem či významem
 - Ostatní autoři
     - Walt Whitman
         - Stébla trávy
@@ -17,9 +19,12 @@
 - Filologie v Dublinu a na Oxfordu
 - Oženil se s bohatou manželkou a měl dvě děti
     - Poté potkal týpečka a byl obžalován za homosexualitu
-        - Obraz Doriana Graye tam byl důkaz, že je gayyyyyyyyy
+        - Obraz Doriana Graye tam byl důkaz, že je gay
+    - 2 Roky vězení
     - Žena ho opustila a přejmenovala sebe i děti
     - Zemřel v Evropě, se špatným zdrávím na meningitidu
+        - Napsal The Ballad of Reading Gaol
+            - Depka, homosexuálové to mají těžké
 - Je special a unique
 - Obraz Doriana Graye, Ideální manžel
 

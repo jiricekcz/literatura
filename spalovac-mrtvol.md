@@ -2,13 +2,16 @@
 
 ## Literárně-historický kontext
 - 2. Etapa literatury 2. světové a holokaustu
+    - Každý buď sloužil režimu, nebo proti němu nebrojil
     - Strach, hněv
-- Reakce na 2. světovou
-    - Heydrichiáda
+    - Reakce na 2. světovou
+        - Heydrichiáda
+    - 60. léta 20. stol.
+        - Normalizace
 - Ostatní autoři
     - Bohumil Hrabal: Obsluhoval jsem anglického krále
     - Jan Otčenášek: Romeo a Julie a tma
-    - Arnošt Lustig
+    - Arnošt Lustig: Noc a naděje
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
     - Jaromír Nohavica: Dokud se zpívá
@@ -18,8 +21,14 @@
 - 1923 - 1994
 - Kádrový posudek -> Dělník na kasárnách
 - Studium filosofie, psychologie a dějin umění
-- 2. etapa literatury
-    - Ostatní autoři proudu
+- Život
+    - Přísný otec policista
+    - Střední škola
+        - Kamarádi židé odváženi do koncentráků
+        - Odsuzován za homosexualitu
+    - Pracoval v Národním Divadle
+        - Publikoval články
+- 2. etapa literatury 2. sv. v.
 - Další díla
     - Pan Theodor Mundstock
         - Žid se připravuje na cestu do koncentráku
