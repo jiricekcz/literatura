@@ -43,7 +43,7 @@
 - Použité jazykové prostředky
 
 ## Celé dílo
-- 1623 - poslední vydání
+- 1623 - poslední vydání (napsáno cca 1600)
 - Anglická tragédie
 - Drama
 - Dánský princ postupně šílí po odhalení podstaty vraždy svého otce
