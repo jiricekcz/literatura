@@ -42,9 +42,12 @@
 - Komedie
 - Drama
 - Lakomý muž se chce oženit za milenku svého syna
-- Lakota, láska, prospěchářskost
 - Vrcholové klasicistní dílo
 - Inspirováno Komedií o hrnci od Plauta
+
+## Téma a motiv
+- Téma: Lakota
+- Motivy: peníze, láska, rodina, intriky, prospěchářskost
 
 ## Časoprostor
 - 17. století
