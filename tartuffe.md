@@ -126,6 +126,9 @@
 ## Aktuálnost
 - Lhaní je dnes se sociálními sítěmi běžné
     - Alegorie k internetovým scamům
+- Střet dvou vyšších mocí (církev, král)
+    - Oslavování jedné (krále)
+    - Odsuzování druhé (církev)
 
 ## Vlastní interpretace
 - Jazykem se blbě prokousávalo
