@@ -88,7 +88,7 @@
 - Duch starého Hamleta
     - Chce pomstu - přikazuje Hamletovi, aby ho pomstil
     - Milosrdný vůči Gertrůdě
-    - Zjeví se na začátku strážím a Horatiu s Hamletem
+    - Zjeví se na začátku strážím a Horatiu s Hamletem a později, ale to už jen Hamletovi (ostatní jsou přítomni, ale ducha nevidí)
     - Vyžaduje mlčenlivost
 - Gertruda
     - Žena starého Hamleta
