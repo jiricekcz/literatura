@@ -48,7 +48,7 @@
 - Drama
 - Dánský princ postupně šílí po odhalení podstaty vraždy svého otce
     - Není jednoznačné, jestli šílí nebo jen šílenství předstírá
-- Šílenství, pomsta, touha po moci, intriky, věrnost
+
 - Nejslavnější monolog vůbec
 - Inspirace skandinávskou legendou Amlet
     - Dva synové dánského šlechtice
@@ -59,6 +59,11 @@
 - 3 vydání
     - První dvě vydali vedlejší Shakespearovi herci
     - Poslední sepsali Shakespearovi kolegové v organizaci
+
+## Téma a motiv
+- Téma: nelze snadno shrnout - *Hra o zločinu v minulosti a o tom, jak těžké je ho napravit.* [paraf. M. Hilský pro FF UK](https://www.youtube.com/watch?v=DyHBdLHE90U&t=400s)
+- Motivy: šílenství, pomsta, touha po moci, intriky, věrnost
+
 
 ## Časoprostor
 - Čas Shakespeara
