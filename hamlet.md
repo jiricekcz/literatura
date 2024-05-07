@@ -147,13 +147,16 @@
 ## Děj
 - Zjevení ducha
 - Hádka s Ofélií
-- Divadlo
+- Divadlo (proměna v detektivní drama)
+    - Hamlet má jistotu, že Klaudius je vrah
+- Klaudius se modlí (předstírá, že se modlí)
+    - Hamlet nechce zabít Klaudia, protože se modlí
 - Rozhovor s matkou, smrt Polonia
 - Klaudius vysílá Hamleta pryč
 - Laertes s Klaudiem ušijí vraždu
 - Pohřeb Ofélie
 - Závěrečná katastrofa
-    - Umře Gertruda, Laertes, Klaudius, Hamlet
+    - Umře Gertruda (otrávna nápojem určeným Hamletovi), Laertes, Klaudius, Hamlet
 
 ## Aktuálnost
 - Existuje demokracie, vraždy o moc spíše už ne
