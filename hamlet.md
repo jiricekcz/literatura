@@ -124,6 +124,7 @@
     - Přímá
     - Monology vyjadřují vnitřní konflikt, posouvají děj
     - Dialogy
+    - Nejsou promluvy stranou (atypické pro Shakespeara), málokdy jsou postavy samy - způsobuje nejasnosti
 
 ## Kompozice
 - Chronologicky
