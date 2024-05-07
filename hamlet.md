@@ -78,6 +78,7 @@
         - V průběhu chtěl potvrzení od Ofélie
         - Ofélie ale chtěla potvrzení od Hamleta
         - Tohle se střetlo a pohádali se
+    - Začíná jako kladná postava, ale dojde k postupné proměně v negativní
 - Klaudius
     - Bratr starého Hamleta (krále, otce Hamleta)
     - Zavraždil krále jedem do ucha ve spánku
