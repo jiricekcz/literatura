@@ -95,7 +95,25 @@
 - chronologická
 - Jednota děje, času a místa
 - 5 dějství
-    - Expozice, kolize, krize, katastrofa, rozuzlení
+    - Expozice
+        - Harpagon zakopává truhlu s penězi
+        - Harpagon oznamuje záměry
+            - Harpagon se oženit s Marianou
+            - Eliška se provdá za bohatého Anselma
+            - Cleont si vezme bohatou vdovu
+    - Kolize 
+          - Spor mezi Harpagonem a Cleontem o Marianu
+    - Krize
+        - Mariana odmítá Harpagona
+        - Cleont přesvědčí Marianu, aby si jeho otce (Harpagona) vzala
+    - Katastrofa
+        - Cleont přesvědčuje Frosinu, aby svatbě zabránila
+        - Harpagon se lstí dozvídá o lásce Cleonta k Mariáně
+        - Čipera krade truhlu Harpagonovi
+    - Rozuzlení
+        - Povolání policejního komisaře k vyšetření krádeže truhly
+        - Dozvídáme se, že Anselm je otcem Cleonta a Mariány
+        - Anselm, jako bohatý šlechtic všechno vyřeší, zaplatí a všicni se domluví (deus ex machina)
 
 ## Jazyková vrstva
 - Spisovné
