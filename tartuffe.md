@@ -53,6 +53,7 @@
 - Tartuffe
     - Racionální, vypočítavý
     - Lhář, tváří se jako svaťoušek
+    - Ztělesnění pokrytectví
     - Přesvědčí Orgona, aby mu přenechal všechen svůj majetek
     - Když je odhalen, zahazuje fasádu, vyhání Orgona pryč
     - Nakonec odhalena košatá zločinná historie
