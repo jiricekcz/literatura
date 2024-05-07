@@ -29,6 +29,8 @@
 - Klasicismus
 - Další díla: Don Juan, Tartuffe, Zdravý nemocný
 - Moliére zemřel při hraní hlavní role Zdravého nemocného
+- Jeden z nejvýznámějších francouzských dramatiků
+    - Velký vliv na francouzský jazyk (podobně jako Shakespeare na angličtinu)
 
 ## Ukázka
 - Zařazení do knihy
