@@ -101,7 +101,7 @@
 - Polonius
     - Šlechtic
     - Brutální podlejzák
-    - Otec Ofélie
+    - Otec Ofélie a Laerta
     - Zhebne když špehuje Hamleta s Gertrudou (zabit Hamletem, který ho považoval za Klaudia)
 - Ofélie
     - Dcera Polonia
@@ -110,6 +110,7 @@
         - Nakonec se utopí
         - Její sebevražda je de facto způsobena Hamletem
 - Laertes
+    - Syn Polonia
     - Od začátku knihy studuje v zahraničí
     - Po Poloniově smrti se vrací k šílené Ofelii pro pomstu
     - Po smrti Ofelie to ztratí
