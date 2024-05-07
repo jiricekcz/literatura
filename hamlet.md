@@ -64,7 +64,6 @@
 - Téma: nelze snadno shrnout - *Hra o zločinu v minulosti a o tom, jak těžké je ho napravit.* [paraf. M. Hilský pro FF UK](https://www.youtube.com/watch?v=DyHBdLHE90U&t=400s)
 - Motivy: šílenství, pomsta, touha po moci, intriky, věrnost
 
-
 ## Časoprostor
 - Čas Shakespeara
 - Dánský hrad, město Elsinor
@@ -80,14 +79,14 @@
         - Ofélie ale chtěla potvrzení od Hamleta
         - Tohle se střetlo a pohádali se
 - Klaudius
-    - Bratr starého Hamleta
-    - Zavraždil ho jedem do ucha ve spánku
+    - Bratr starého Hamleta (krále, otce Hamleta)
+    - Zavraždil krále jedem do ucha ve spánku
     - Mocichtivý
     - Chce odpuštění, ale nelituje svého hříchu
+        - Není schopen se modlit
     - Umře Laertovým mečem zabit Hamletem
-
 - Duch starého Hamleta
-    - Chce pomstu
+    - Chce pomstu - přikazuje Hamletovi, aby ho pomstil
     - Milosrdný vůči Gertrůdě
     - Zjeví se na začátku strážím a Horatiu s Hamletem
     - Vyžaduje mlčenlivost
@@ -102,12 +101,14 @@
 - Polonius
     - Šlechtic
     - Brutální podlejzák
-    - Zhebne když špehuje Hamleta s Gertrudou
+    - Otec Ofélie
+    - Zhebne když špehuje Hamleta s Gertrudou (zabit Hamletem, který ho považoval za Klaudia)
 - Ofélie
     - Dcera Polonia
         - Ten jí zakázal se vídat s Hamletem
     - Po smrti otce zešílí (asi schizofrenie)
         - Nakonec se utopí
+        - Její sebevražda je de facto způsobena Hamletem
 - Laertes
     - Od začátku knihy studuje v zahraničí
     - Po Poloniově smrti se vrací k šílené Ofelii pro pomstu
