@@ -93,7 +93,7 @@
 
 ## Kompozice
 - chronologická
-- Jednota času, místa
+- Jednota děje, času a místa
 - 5 dějství
     - Expozice, kolize, krize, katastrofa, rozuzlení
 
