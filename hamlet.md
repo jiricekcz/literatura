@@ -17,7 +17,7 @@
 - Anglická renesance
     - Výtvarný a hudební směr
     - Inspirace antikou
-    - Francesco Petrarca: Don Quijote
+    - Miguel Incervantes: Don Quijote
         - V Itálii o 200 let dřív
 - Humanismus
     - Literární a naukový směr
