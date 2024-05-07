@@ -100,7 +100,7 @@
     - Vlastně jediný, komu v průběhu Hamlet opravdu věří
 - Polonius
     - Šlechtic
-    - Brutální podlejzák
+    - Brutální podlejzák a *trouba*
     - Otec Ofélie a Laerta
     - Zhebne když špehuje Hamleta s Gertrudou (zabit Hamletem, který ho považoval za Klaudia)
 - Ofélie
