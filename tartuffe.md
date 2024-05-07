@@ -8,10 +8,10 @@
         - Vzhlížení k antickým vzorům
         - Střízlivý rozum, řád
         - Francie
-            - Jean de La Fontaine
+            - Jean de La Fontaine (bajky)
         - Německo (Výmarská literatura)
-            - Johann Wolfgang von Goethe
-            - Friedrich Schiller
+            - Johann Wolfgang von Goethe (Faust, Utrpení mladého Werthera)
+            - Friedrich Schiller (Loupežníci)
         - Hudba
             - W.A. Mozart
             - L. van Beethoven
