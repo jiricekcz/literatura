@@ -3,6 +3,7 @@
 ## Literárně-historický kontext
 - 17. století
     - Dělení na vysoké a nízké žánry
+    - Vrchol francouzské šlechty (před revolucí)
     - Klasicismus
         - Vzhlížení k antickým vzorům
         - Střízlivý rozum, řád
