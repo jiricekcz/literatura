@@ -99,14 +99,17 @@
     - Expozice
         - Tartuffe je podle všech sus
     - Kolize
-        - Tartuffe získává důvěru Orgona
+        - Tartuffe získává důvěru Orgona a jeho matky 
     - Krize
         - Tartuffe získává majetek Orgona
     - Peripetie
         - Elmíra přesvědčí lstí Orgona, že je Tartuffe lhář
-        - Tartuffe hrozí, že jim vše vezme
+        - Tartuffe hrozí, že jim vše vezme a odhalí Tartuffovu vlastizradu králi
     - Katastrofa
         - Zásah krále (deus ex machina)
+        - Tartuffe je zatčen
+        - Králův vykonavatel (zasahující vyšší moc) ukáže krále jako spravedlivého a moudrého
+            - Dílo tak oslavuje krále
 
 ## Jazyková vrstva
 - Spisovné podle postavy
