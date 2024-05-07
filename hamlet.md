@@ -47,6 +47,7 @@
 - Anglická tragédie
 - Drama
 - Dánský princ postupně šílí po odhalení podstaty vraždy svého otce
+    - Není jednoznačné, jestli šílí nebo jen šílenství předstírá
 - Šílenství, pomsta, touha po moci, intriky, věrnost
 - Nejslavnější monolog vůbec
 - Inspirace skandinávskou legendou Amlet
