@@ -42,6 +42,13 @@
 - Prolhaný svaťoušek přesvědčí bohatého šlechtice o své čistotě a převezme všechen jeho majetek navzdory názoru rodiny
 - Lhaní, majetkářství, důvěra, víra
 - Moliére v díle odráží svůj odpor k církvi
+- Dílo bylo dvakrát zakázáno
+    - První zakázání
+        - Církev
+    - Druhé zakázání
+        - Vysoce postavený šlechtic 
+    - Dílo bylo nakonec povoleno králem
+        - Pravděpodobně kvůli oslavě krále na konci díla
 
 ## Časoprostor
 - Autorova doba
