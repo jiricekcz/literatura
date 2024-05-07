@@ -100,7 +100,8 @@
 ## Jazyková vrstva
 - Spisovné podle postavy
     - Velmi košatý jazyk
-    - Veršované
+    - Veršované [Alexandrín](https://cs.wikipedia.org/wiki/Alexandr%C3%ADn)
+      - Záleží na překladu
     - Služka prostá a upřímná
 - Archaismy
 - Jazyk vyjadřuje povahu postavy
