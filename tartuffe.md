@@ -124,7 +124,7 @@
     - Přirovnání
 
 ## Aktuálnost
-- Lhaní je dnes se sociálními sítěmi běžné.
+- Lhaní je dnes se sociálními sítěmi běžné
     - Alegorie k internetovým scamům
 
 ## Vlastní interpretace
