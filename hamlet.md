@@ -83,7 +83,7 @@
     - Bratr starého Hamleta (krále, otce Hamleta)
     - Zavraždil krále jedem do ucha ve spánku
     - Mocichtivý
-    - Chce odpuštění, ale nelituje svého hříchu
+    - Chce odpuštění, je rozpolcený, psychicky nestabilní
         - Není schopen se modlit
     - Umře Laertovým mečem zabit Hamletem
 - Duch starého Hamleta
