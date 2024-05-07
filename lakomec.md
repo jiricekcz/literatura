@@ -79,7 +79,7 @@
 - Er-forma
 - Typy promluv
     - Přímá
-    - Monolog+Dialog
+    - Monolog + Dialog
 - Scénické poznámky
 
 ## Kompozice
@@ -96,10 +96,10 @@
 - Scénické poznámky, repliky
 
 ## Aktuálnost
-- Myšlenka zůstane navždy, dílo je velmi mezidobové.
+- Myšlenka zůstane navždy, dílo je velmi mezidobové
 
 ## Vlastní interpretace
-- Dílo klade důraz na popisy postav.
+- Dílo klade důraz na popisy postav
 - Také detailní jednotlivé situace - moc se toho nestalo
 - Lakomý muž až zneužívající své děti, nedá jim nic, chce peníze a nemyslí na syna ani při výběru manželky
 - Lakota je špatná
