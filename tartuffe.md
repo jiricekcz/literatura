@@ -51,31 +51,40 @@
 
 ## Postavy
 - Tartuffe
+    - Racionální, vypočítavý
     - Lhář, tváří se jako svaťoušek
     - Přesvědčí Orgona, aby mu přenechal všechen svůj majetek
     - Když je odhalen, zahazuje fasádu, vyhání Orgona pryč
     - Nakonec odhalena košatá zločinná historie
         - Zatčen královým poslancem (deus ex machina)
 - Orgon
+    - Jedná impulsivně, důvěřivý
     - Bohatý šlechtic, který důvěřuje Tartuffovi
     - Nikým ze své rodiny se nenechá přesvědčit o jeho pokrytectví
         - Na důkaz své důvěry v něj mu nechá veškerý svůj majetek
     - Nakonec spatří jeho prohnanost, ale je pozdě
 - Elmíra
+    - Jedná racionálně
     - Manželka Orgona
     - Tartuffe jí nabaluje
         - Elmíra toho využije, aby ukázala Orgonovi Tartuffovu skutečnou povahu
 - Mariana
+    - Impulsivně a emocionálně jednající postava
     - Měla si vzít svého milence Valéra
     - Orgon ale na ukázku své důvěry Tartuffovi odkáže Marianu jemu
         - "Víra je nejlepší vlastnost"
 - Paní Pernellová
+    - Stará
     - Orgonova matka
     - Tartuffovi celou dobu i přes odhalení věří
 - Dorina
     - Marianina služka
     - Vždy se za ni postavila, když ji potřebovala
     - Jednoduchá, upřímná
+- Damis 
+    - Impulsivně a emocionálně jednající postava
+    - Orgonův syn z prvního manželství 
+    - Vyhnán Orgonem kvůli, údajně křřivému, obvinění Tartuffa
 
 ## Vypravěč
 - Není (drama)
