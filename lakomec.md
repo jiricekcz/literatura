@@ -78,6 +78,12 @@
     - Dohazovačka
     - Zprostředkovává vztahy
     - Zábavná postava
+- Anselm
+    - Otec Mariana a Valéra
+        - Dozvíme se až nakonec
+    - Bohatý italský šlechtic
+
+
 ## Vypravěč
 - Er-forma
 - Typy promluv
