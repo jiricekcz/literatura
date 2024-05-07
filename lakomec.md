@@ -74,7 +74,10 @@
     - Zamilovaná do Cleonta
     - Původně Valérova sestra
         - To se dozvíme až nakonec
-
+- Frosina
+    - Dohazovačka
+    - Zprostředkovává vztahy
+    - Zábavná postava
 ## Vypravěč
 - Er-forma
 - Typy promluv
