@@ -53,7 +53,7 @@
 
 ## Postavy
 - Harpagon
-    - Chamtivý a bohatý muž
+    - Chamtivý a bohatý muž 
     - K penězům přišel lichvou
     - Miluje peníze více než cokoliv na světě
 - Cleont
@@ -127,6 +127,7 @@
 
 ## Vlastní interpretace
 - Dílo klade důraz na popisy postav
+    - Postavy jsou jednoznačné a jednoduché (často je popisuje jen jeden rys) 
 - Také detailní jednotlivé situace - moc se toho nestalo
 - Lakomý muž až zneužívající své děti, nedá jim nic, chce peníze a nemyslí na syna ani při výběru manželky
 - Lakota je špatná
