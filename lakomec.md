@@ -60,15 +60,15 @@
     - Syn Harpagona
     - Extravagantně se obléká
 - Eliška
-    - dcera Harpagona
+    - Dcera Harpagona
     - Zamilována do Valéra
 - Valér
     - Zamilován do Elišky
     - Původně italský šlechtic
         - To se dozvíme až nakonec
 - Čipera
-    - Služka Cleonta
-    - Oddaná svému pánu
+    - Sluha Cleonta
+    - Krade Harpagonovi truhlu se zlatem
 - Mariana
     - Chudá
     - Zamilovaná do Cleonta
