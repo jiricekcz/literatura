@@ -114,7 +114,7 @@
         - Čipera krade truhlu Harpagonovi
     - Rozuzlení
         - Povolání policejního komisaře k vyšetření krádeže truhly
-        - Dozvídáme se, že Anselm je otcem Cleonta a Mariány
+        - Dozvídáme se, že Anselm je otcem Valéra a Mariány
         - Anselm, jako bohatý šlechtic všechno vyřeší, zaplatí a všicni se domluví (deus ex machina)
 
 ## Jazyková vrstva
