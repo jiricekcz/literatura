@@ -109,7 +109,7 @@
         - Mariana odmítá Harpagona
         - Cleont přesvědčí Marianu, aby si jeho otce (Harpagona) vzala
     - Katastrofa
-        - Cleont přesvědčuje Frosinu, aby svatbě zabránila
+        - Cleont přesvědčuje Forsinu, aby svatbě zabránila
         - Harpagon se lstí dozvídá o lásce Cleonta k Mariáně
         - Čipera krade truhlu Harpagonovi
     - Rozuzlení
