@@ -81,7 +81,7 @@
     - Zprostředkovává vztahy
     - Zábavná postava
 - Anselm
-    - Otec Mariana a Valéra
+    - Otec Mariany a Valéra
         - Dozvíme se až nakonec
     - Bohatý italský šlechtic
 
@@ -100,7 +100,7 @@
     - Expozice
         - Harpagon zakopává truhlu s penězi
         - Harpagon oznamuje záměry
-            - Harpagon se oženit s Marianou
+            - Harpagon se ožení s Marianou
             - Eliška se provdá za bohatého Anselma
             - Cleont si vezme bohatou vdovu
     - Kolize 
