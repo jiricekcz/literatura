@@ -43,6 +43,8 @@
 - Drama
 - Prolhaný svaťoušek přesvědčí bohatého šlechtice o své čistotě a převezme všechen jeho majetek navzdory názoru rodiny
 - Moliére v díle odráží svůj odpor k církvi
+- Téma: Pokrytectví
+- Lhaní, majetkářství, důvěra, víra, přetvářka
 - Dílo bylo dvakrát zakázáno
     - První zakázání
         - Církev
@@ -50,10 +52,6 @@
         - Vysoce postavený šlechtic 
     - Dílo bylo nakonec povoleno králem
         - Pravděpodobně kvůli oslavě krále na konci díla
-
-## Téma a motiv
-- Téma: Pokrytectví
-- Lhaní, majetkářství, důvěra, víra, přetvářka
 
 ## Časoprostor
 - Autorova doba
