@@ -48,15 +48,12 @@
 - Literárníí druh: Epika
 - Literární žánr: Romaneto
 - Literární forma: Próza
+- Téma: přátelství, poselství, umění
+- Motivy: náboženství, umění, věda, obraz, hádanka, záhada, tajemství
 - Umělecký směr: Na rozhraní romantismu a realismu
     - Romantismus: Rozvrácený hlavní hrdina, prostředí noci, tragický konec
     - Realismus: Logické vysvětlení záhad, realistcké vyobrazení postav
 - Jedná se o první Arbesovo romaneto
-
-## Téma a motiv
-
-- Téma: přátelství, poselství, umění
-- Motivy: náboženství, umění, věda, obraz, hádanka, záhada, tajemství
 
 ## Časoprostor
 

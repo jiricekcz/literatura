@@ -47,9 +47,6 @@
 - Literárníí druh: Epika
 - Literární žánr: Romaneto
 - Literární forma: Próza
-
-## Téma a motiv
-
 - Téma: Triky, cestování časem, odpor k válce
 - Motivy: Věda, válka, sci-fi, tajemství, historie
 
