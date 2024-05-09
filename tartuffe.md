@@ -2,7 +2,7 @@
 
 ## Literárně-historický kontext
 - 17. století
-    - Dělení na vysoké a nízké žánry
+    - Dělení na vysoké a nízké žánry (komedie je nízká)
     - Vrchol francouzské šlechty (před revolucí)
     - Klasicismus
         - Vzhlížení k antickým vzorům
