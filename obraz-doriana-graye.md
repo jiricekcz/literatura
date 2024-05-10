@@ -6,12 +6,12 @@
         - Odproštění od společnosti
     - Estetismus
         - Preferuje krásu umění nad smyslem či významem
+    - Symbolismus
 - Ostatní autoři
-    - Walt Whitman
-        - Stébla trávy
+    - Guy de Maupassant (Kulička, Miláček)
     - Prokletí básníci
-        - Francois Villon, Paul Verlaine, Charles Baudelaire
-        - Otokar Březina, Antonín Sova
+        - Francois Villon (Závěť), Paul Verlaine (Prokletí básníci), Charles Baudelaire (Květy zla)
+        - Otokar Březina (Ruce), Antonín Sova (Pankrác Budecius, kantor)
 
 ## Oscar Wilde
 - Irsko
