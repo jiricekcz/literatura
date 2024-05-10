@@ -5,7 +5,7 @@
     - Válka
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
-        - Autoři, kteří se narodili kolem roku 1900 a bojovali v WWI.
+        - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
         - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům
         - Ztratili 
             - své místo ve světě
