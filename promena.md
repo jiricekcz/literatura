@@ -6,16 +6,17 @@
     - Ztracená generace
     - Pražská německá literatura
         - Nejvýznamnější německá literární kolonie
-        - Gustav Meyrink
-            - Golem
-        - Max Brod
+        - Gustav Meyrink: Golem
+        - Max Brod: Hlídka
             - Kafkův životní přítel
             - Po jeho smrti publikoval Proces
-            - Hlídka (asi Kafka spoluautor)
-        - Rainer Maria Rilke
+        - Rainer Maria Rilke: Nové básně
         - Jung-Prag
     - Existencialismus
         - Taky kvůli WWI
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Samuel Beckett: Čekání na Godota
 
 ## Franz Kafka
 - Praha
