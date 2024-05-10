@@ -103,7 +103,9 @@
 ## Kompozice
 - Chronologická
     - Retrospektivní odbočky k Dorianovým opatrovnícím a předkům
+- Dějové pasáže prokládány citově zabarvenými popisy
 - 22 kapitol
+- Dlouhá předmluva - vytvořena pro obhajobu knihy a ocharnu před cenzurou
 
 ## Jazyková vrstva
 - Spisovný jazyk
