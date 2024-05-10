@@ -93,7 +93,9 @@
 - Slušně vychované postavy -> spisovnost
 - Prostředky
     - Ironie + Sarkasmus
-    - Bizarnost
+    - Bizarnost, paradoxy
+- Aforismy
+- Krátké básničky
 
 ## Aktuálnost
 - Lidé lžou pořád a vždy budou
