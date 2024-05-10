@@ -37,7 +37,7 @@
 ## Celé dílo
 - 1890
 - Novela s hororovými prvky
-- Lyriko-epika
+- Literární druh: Epika
 - Proměna mladého krasavce v prohnilého zkažence
 - Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
 
@@ -132,3 +132,4 @@
 ## Zdroje
 
 - [Na potítku - YouTube](https://www.youtube.com/watch?v=7IW4NilfdKs)
+- [Rozbor s formálními znaky](https://rozbor-dila.cz/obraz-doriana-graye/)
