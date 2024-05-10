@@ -72,7 +72,7 @@
     - Chytrá, bystrá, slušně vychovaná
     - Taky se jí líbí na Algernonovi jméno Filip
 - Lady Bracknellová
-    - Teta Gwendoliny
+    - Matka Gwendoliny
     - Zakáže jim se vzít
         - To vyřeší Jack tak, že povolí svatbu Algernona s Cecílií, jenom pokud je nechá
 - Slečna Prismová
