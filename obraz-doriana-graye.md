@@ -127,3 +127,7 @@
 
 ## Otázka na konec
 - Kdy už je pro člověka moc pozdě na nápravu?
+
+## Zdroje
+
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=7IW4NilfdKs)
