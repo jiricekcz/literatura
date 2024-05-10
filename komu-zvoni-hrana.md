@@ -120,6 +120,7 @@
     - Robertův věrný pomocník
     - Jde s ním celou dobu
     - Zemře při odpalování mostu
+    - Starý, ztrácí sílu, ale je odhodlaný pomoct a nebýt přítěží
 - Rafael
     - Cikán, flegmatický, nadnáší náladu
     - Se všemi má dobrý vztah
