@@ -43,6 +43,7 @@
 - Literární forma: Próza
 - Téma: Proměna mladého krasavce v prohnilého zkažence
 - Motivy: Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
+- Soustředí se převážně na vývoj hlavního hrdiny
 
 ## Časoprostor
 - Autorova doba
@@ -50,6 +51,7 @@
 - Sociální život ve městě udává určitý směr ději
 
 ## Postavy
+- V podstatě všechny postavy jsou popisovány negativně (možná kromě Basila)
 - Dorian Gray
     - Mladý, krásný a nevinný muž
     - Narcistický aristokrat
