@@ -85,7 +85,7 @@
 
 ## Časoprostor
 - Autorova doba
-- Chata na pobřeží, loďka na moři - na Kubě
+- Chata na pobřeží, loďka na moři - na Kubě u Havany
 - Celý děj je o moři
 
 ## Postavy
