@@ -60,7 +60,7 @@
 - Kateřina
     - Zlá, hádavá, hrubá, tvrdohlavá
     - Nechce se vdát, chce pravou lásku
-    - Trpí v Petruchiovém opatrování
+    - Trpí v Petruchiově opatrování
     - Uvědomí si, že se sama chovala hrozně
     - Nakonec jako jediná přijde na sázku a spílá, jak by ženy měly milovat
 - Bianca

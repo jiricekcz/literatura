@@ -6,12 +6,12 @@
         - Odproštění od společnosti
     - Estetismus
         - Preferuje krásu umění nad smyslem či významem
+    - Symbolismus
 - Ostatní autoři
-    - Walt Whitman
-        - Stébla trávy
+    - Guy de Maupassant (Kulička, Miláček)
     - Prokletí básníci
-        - Francois Villon, Paul Verlaine, Charles Baudelaire
-        - Otokar Březina, Antonín Sova
+        - Francois Villon (Závěť), Paul Verlaine (Prokletí básníci), Charles Baudelaire (Květy zla)
+        - Otokar Březina (Ruce), Antonín Sova (Pankrác Budecius, kantor)
 - W. Shakespeare (Refence v díle)
     - Přímé i nepřřímé odkazy na jeho díla
         - Romeo a Julie - hráno v divadle a zároveň paralela dvojité sebevraždy
@@ -23,6 +23,7 @@
 - Druhá kniha Platónovy ústavy
     - Dorian ničí svými hříchy svou duši, nikoli své tělo 
         - *I když nikdo nepřijde na tvé hřříchy a nebude to tak mít vliv na stav tvého těla, bude to mít vliv na stav tvé duše.* - parafráze Sokrata z Platónovy ústavy
+
 ## Oscar Wilde
 - Irsko
 - 1854 - 1900

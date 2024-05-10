@@ -5,9 +5,20 @@
     - Absurdita války, kritika násilí
     - Existencialismus
 - Ostatní autoři doby
-    - James Joyce
-    - Ladislav Fuks
-    - Bohumil Hrabal
+    - James Joyce: Odysseus
+    - Absurdní drama
+        - Děj nedává smysl
+        - Opakování
+        - Konverzace o ničem
+        - Václav Havel: Zahradní slavnost
+        - Harold Pinter: Krajina, Životopis
+        - Eugéne Ionesco: Plešatá zpěvačka
+    - Existencialismus
+        - Přemítaj nad smyslem vlastní existence
+        - Člověk neměl výběr žít, ale má absolutní svobodu
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
 
 ## Samuel Beckett
 - Paříž
@@ -16,14 +27,7 @@
 - Nobelovka v 63
 - Francouzské hnutí odporu
 - Existencialismus
-    - Albert Camus - Ostrov?
-    - Jean Paul Sartre - Zeď
 - Absurdní divadlo
-    - Děj nedává smysl
-    - Opakování
-    - Konverzace o ničem
-    - Václav Havel - Zahradní slavnost
-    - Harold Pinter - Krajina, Životopis
 - Další díla
     - Koncovka
     - Šťastné dny
