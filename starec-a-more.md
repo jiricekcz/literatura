@@ -100,6 +100,7 @@
     - Obdivuje moře, "lidi jsou pomíjiví", ryby jsou silné a žijí v souladu s přírodou, lidi je zabíjí
     - Dlouho nic nechytil (84 dní)
         - Pro pořádnou rybu dopluje hodně daleko
+            - Symbol pomyslné hranice na moři typický pro většinu starší literatury - mladí rybáři hranici nevnímají (symbolizuje i pokrok v literatuře)
         - Nakonec ji po několika dnech zápasení uloví
         - Je ale moc daleko a je napaden žraloky, kteří mu ji sežerou
     - Doma dostane spoustu obdivu za obrovskou kostru ryby, rybu mu ale snědli žraloci
