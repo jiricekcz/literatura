@@ -4,9 +4,12 @@
 - 16. - 17. století
     - Inspirace antikou, rozumem
     - Klasicismus, humanismus, renesance
-- Ostatní autoři
-    - Francesco Petrarca: 
+- Ostatní autoři renesance
+    - Francesco Petrarca: Zpěvník
     - Miguel Incervantes: Don Quijote
+    - Francis Bacon: vědecké spisy
+    - John Milton: Ztracený ráj
+    - Thomas More: Utopie
 
 ## William Shakespeare
 - Anglie
@@ -17,8 +20,6 @@
 - Anglická renesance
     - Výtvarný a hudební směr
     - Inspirace antikou
-    - Francesco Petrarca: Don Quijote
-        - V Itálii o 200 let dřív
 - Humanismus
     - Literární a naukový směr
     - Mezidobový
@@ -46,7 +47,7 @@
 - 1594
 - Společenská komedie
 - Drama
-- Zlá dcera kupce je nucena se provdát před mladší sestrou, kde je následně zkrocena
+- Zlá dcera kupce je nucena se provdát před mladší sestrou, čímž je následně zkrocena
 - Láska, chamtivost, svatba, předstírání
 - Shakespearova hra, která by mohla bavit každého
 
@@ -59,7 +60,7 @@
 - Kateřina
     - Zlá, hádavá, hrubá, tvrdohlavá
     - Nechce se vdát, chce pravou lásku
-    - Trpí v Petruchiovém opatrování
+    - Trpí v Petruchiově opatrování
     - Uvědomí si, že se sama chovala hrozně
     - Nakonec jako jediná přijde na sázku a spílá, jak by ženy měly milovat
 - Bianca
