@@ -63,7 +63,7 @@
 - Řehoř Samsa
     - Obchodní cestující
     - Trpělivý, pečlivý, zodpovědný, obětavý
-    - Promění se v posteli přes noc v brouka
+    - Promění se v posteli přes noc v hmyz
 - Markéta
     - Sestra Řehoře
     - Má ho ráda
