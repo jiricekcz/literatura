@@ -38,8 +38,11 @@
 - 1890
 - Novela s hororovými prvky
 - Literární druh: Epika
-- Proměna mladého krasavce v prohnilého zkažence
-- Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
+- Literární žánr: Román
+- Literární směr: Dekadence
+- Literární forma: Próza
+- Téma: Proměna mladého krasavce v prohnilého zkažence
+- Motivy: Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
 
 ## Časoprostor
 - Autorova doba
