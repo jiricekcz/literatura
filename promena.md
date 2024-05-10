@@ -49,7 +49,7 @@
 - 1915
 - Povídka
 - Lyriko-epika
-- Obchodník se promění v brouka
+- Obchodník se promění v hmyz
 - Užitečnost, co vydrží láska, absurdita, brouk, vůle, samota
 - Existencialismus
 - Předchůdce absurdního divadla
