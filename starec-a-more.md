@@ -69,15 +69,19 @@
 
 ## Celé dílo
 - 1952
-- Symbolická novela
-- Epika
-- Souboj starého rybáře s rubou
-- Odhodlání, síla, moře
+- Literární druh: Epika
+- Literární žánr: Symbolická novela
+- Literární forma: Próza
+- Téma: Souboj starého rybáře s rybou
+- Motivy: Odhodlání, síla, moře
 - Zajímavosti
     - Poslední Hemingwayovo dílo
     - Křesťanská symbolika 
         - Rybářovo sténání je jako hřebíky v ruce
         - Nekonečný souboj s přírodou o přežití (trest vyhnání z ráje)
+    - Symbolika pokroku
+        - Santiago je starý, nepoužívá nové techniky
+        - Reakce na techonologický pokrok způsobený válkou
 
 ## Časoprostor
 - Autorova doba
