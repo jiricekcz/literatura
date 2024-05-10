@@ -83,6 +83,7 @@
 - Španělská občanská válka (1936-1939)
 - Španělská občanská válka (Španělsko)
 - Celý děj je o Španělské občanské válce
+- Celý děj trvá pouze 3 dny
 
 ## Postavy
 - Robert Jordan
