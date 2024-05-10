@@ -53,7 +53,7 @@
 ## Postavy
 - V podstatě všechny postavy jsou popisovány negativně (možná kromě Basila)
 - Dorian Gray
-    - Mladý, krásný a nevinný muž
+    - Mladý, krásný a ze začátku nevinný, skoro až naivní, muž
     - Narcistický aristokrat
     - Vlivem Henryho Cynismu se změní
         - Uvědomí si pomíjivost mládí
