@@ -18,7 +18,7 @@
         - Jean Paul Sartre: Zeď
         - Samuel Beckett: Čekání na Godota
 
-## Franz Kafka
+## Franz z Kafka
 - Praha
 - 1883 - 1924
 - Právník, pojišťovatel
@@ -28,15 +28,17 @@
     - Provokuje, znechucuje
 - Divnočlověk (komplikovaný s tátou a ženama)
     - Nízké sebevědomí
+
 - Pražská německá literatura
-- Další díla
-    - Proces
-    - Zámek
 - V závěti chtěl zničit svá díla
     - Max Brod byl jakože trololo
 - Inspirace expresionismem s prvky fantazie a pesimismu
 - Zachycuje lidskou psychiku
     - Existencialismus
+
+- Další díla
+    - Proces
+    - Zátencialismus
 
 ## Ukázka
 - Zařazení do knihy
