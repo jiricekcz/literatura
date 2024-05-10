@@ -74,6 +74,7 @@
     - Všechny kolem sebe přitáhne na tuto filosofii
     - Obecně ten špatný vliv na Doriana
     - Přítel Basila
+    - Obecná kritika tehdejší Viktoriánské společnosti
 - Basil Hallward
     - Rozumný, hodný a schopný malíř
     - Dorian je pro něj inspirací, ztělesněním krásy
