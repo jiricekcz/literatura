@@ -6,7 +6,7 @@
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
         - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
-        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům
+        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde využíváno ve smyslu neznaje cesty, smyslu života)
         - Ztratili 
             - své místo ve světě
             - pohled na budoucnost
