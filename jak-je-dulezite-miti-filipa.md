@@ -35,11 +35,13 @@
 
 ## Celé dílo
 - 1895
-- Komedie
-- Drama
-- Muž si vymyslí fiktivního kamaráda, což se dozví jeho kamarád
-- Lhaní, jména, láska, zodpovědnost, sirotek, původ
-- Zajímavosti
+- Literární druh: Drama
+- Literární žánr: Komedie
+- Literární směr: Dekadence
+- Literární forma: Drama
+- Téma: Ironie a nečekaná skutečnost
+- Motivy: Lhaní, jména, láska, zodpovědnost, sirotek, původ
+- Muž si vymyslí fiktivního bratra, což se dozví jeho kamarád a předstírá, že je on (později se dozví, že je to jeho bratr)
 
 ## Časoprostor
 - Autorova doba
