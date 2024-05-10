@@ -12,7 +12,17 @@
     - Prokletí básníci
         - Francois Villon, Paul Verlaine, Charles Baudelaire
         - Otokar Březina, Antonín Sova
-
+- W. Shakespeare (Refence v díle)
+    - Přímé i nepřřímé odkazy na jeho díla
+        - Romeo a Julie - hráno v divadle a zároveň paralela dvojité sebevraždy
+        - Hamlet - Dorian nepřímo způsobil smrt své milenky, její bratr se snaží smrt své sestry pomstít
+- Bible (Starý zákon) (Refence v díle)
+    - Dorian říká *Já jsem, kdo já jsem.*
+        - Citace Boha přři konverzeci s Mojžíšem
+        - Poukazuje na to, že se Dorian staví na úroveň Boha - v té době velké no-no
+- Druhá kniha Platónovy ústavy
+    - Dorian ničí svými hříchy svou duši, nikoli své tělo 
+        - *I když nikdo nepřijde na tvé hřříchy a nebude to tak mít vliv na stav tvého těla, bude to mít vliv na stav tvé duše.* - parafráze Sokrata z Platónovy ústavy
 ## Oscar Wilde
 - Irsko
 - 1854 - 1900
