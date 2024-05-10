@@ -108,3 +108,9 @@
 
 ## Otázka na konec
 - Je morálně špatně vymýšlet si výmluvy, abychom nezranili toho druhého?
+
+## Zdroje
+
+- [Rozbor s postavami a kontextem](https://rozbor-dila.cz/jak-je-dulezite-miti-filipa-rozbor-dila-k-maturite/)
+- [Wikipedie - krátký děj, stručný popis postav](https://cs.wikipedia.org/wiki/Jak_je_d%C5%AFle%C5%BEit%C3%A9_m%C3%ADti_Filipa)
+- [Celý text digitalizováno](https://www.ndm.cz/userfiles/archiv_priloh/divadelni-archiv/programy/2012-2013/jak-dulezite-je-mit-filipa-text-1349777888.pdf)
