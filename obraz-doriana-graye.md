@@ -46,7 +46,7 @@
 
 ## Časoprostor
 - Autorova doba
-- Londýn
+- Londýn, konec 19. století
 - Sociální život ve městě udává určitý směr ději
 
 ## Postavy
