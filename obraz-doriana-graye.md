@@ -104,7 +104,7 @@
 - Chronologická
     - Retrospektivní odbočky k Dorianovým opatrovnícím a předkům
 - Dějové pasáže prokládány citově zabarvenými popisy
-- 22 kapitol
+- 20 kapitol
 - Dlouhá předmluva - vytvořena pro obhajobu knihy a ocharnu před cenzurou
 
 ## Jazyková vrstva
@@ -138,3 +138,4 @@
 
 - [Na potítku - YouTube](https://www.youtube.com/watch?v=7IW4NilfdKs)
 - [Rozbor s formálními znaky](https://rozbor-dila.cz/obraz-doriana-graye/)
+- [Celý text digitalizován](https://www.milujemecestinu.cz/citanka/Wilde%20Oscar%20-%20Obraz%20Doriana%20Graye.pdf)
