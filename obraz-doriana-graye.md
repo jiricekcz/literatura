@@ -39,7 +39,8 @@
 - Novela s hororovými prvky
 - Literární druh: Epika
 - Literární žánr: Román
-- Literární směr: Dekadence
+- Literární směr: Dekadence/Romantismus
+    - Námět je romantický, ale zpracování je dekadentní
 - Literární forma: Próza
 - Téma: Proměna mladého krasavce v prohnilého zkažence
 - Motivy: Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
