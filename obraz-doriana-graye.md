@@ -128,6 +128,11 @@
     - Ironie
     - Filosofování
     - Rozsáhlé popisy prostředí
+- Aforismus 
+    - Krátký výrok, podobný lidovému pořekadlu
+    - Využívá alegorii, humor a ironii
+    - Hlubší význam
+    - Typický pro Wilda (v podstatě všechny jeho známé citáty jsou aforismy)
 
 ## Aktuálnost
 - Dodnes se určitá individua vydávají do cest za rozkoší, nehledíc na lidi za nimi.
