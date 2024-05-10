@@ -72,8 +72,9 @@
 - Válečný román
 - Epika
 - Téma: Protifašistický američan jde ve Španělsku odpálit most
-- Motivy: Moc, láska, spolupráce, odboj, partizáni
+- Motivy: Moc, láska, spolupráce, odboj, partizáni, vize budoucnosti, odhodlání, smrt, zabíjení, válka
 - Myšlenka děje je schována mezi řádky
+    - Časté úvahy na smrtí a zabíjení - hrdinové díla jsou smířeni se svou smrtí a "nebojí" se zemřít, ale mají odpor k zabíjení druhých
 - Jmenuje se po verších Johna Donneho
     - „Žádný člověk není ostrov sám pro sebe; každý je kus nějakého kontinentu, část nějaké pevniny; jestliže moře spláchne hroudu, je Evropa menší, jako by to byl nějaký mys, jako by to byl statek tvých přátel nebo tvůj : smrtí každého člověka je mne méně, neboť jsem část lidstva. A proto se nikdy nedávej ptát, komu zvoní hrana. Zvoní tobě.“
         - Citováno jako prolog
