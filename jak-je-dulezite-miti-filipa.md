@@ -10,7 +10,8 @@
     - Walt Whitman
         - Stébla trávy
     - Prokletí básníci
-        - Francois Villon, Paul Verlaine, Charles Baudelaire, Otokar Březina, Antonín Sova
+        - Francois Villon, Paul Verlaine, Charles Baudelaire
+        - Otokar Březina, Antonín Sova
 
 ## Oscar Wilde
 - Irsko
