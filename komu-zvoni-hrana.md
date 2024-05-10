@@ -158,3 +158,6 @@
 
 ## Otázka na konec
 - Jaké prostředky ve válce už účel nesvětí?
+
+## Zdroje
+- [Rozbor se vším](https://rozbor-dila.cz/komu-zvoni-hrana-rozbor-dila-k-maturite/)
