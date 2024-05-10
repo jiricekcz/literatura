@@ -4,9 +4,12 @@
 - 16. - 17. století
     - Inspirace antikou, rozumem
     - Klasicismus, humanismus, renesance
-- Ostatní autoři
-    - Francesco Petrarca: 
+- Ostatní autoři renesance
+    - Francesco Petrarca: Zpěvník
     - Miguel Incervantes: Don Quijote
+    - Francis Bacon: vědecké spisy
+    - John Milton: Ztracený ráj
+    - Thomas More: Utopie
 
 ## William Shakespeare
 - Anglie
@@ -17,8 +20,6 @@
 - Anglická renesance
     - Výtvarný a hudební směr
     - Inspirace antikou
-    - Miguel Incervantes: Don Quijote
-        - V Itálii o 200 let dřív
 - Humanismus
     - Literární a naukový směr
     - Mezidobový
@@ -97,6 +98,8 @@
 - Horatio
     - Hamletův dobrý přítel
     - Vlastně jediný, komu v průběhu Hamlet opravdu věří
+    - Jelikož i viděl ducha, tak je to takový opěrný bod reality
+    - Na konci má o všem vyprávět
 - Polonius
     - Šlechtic
     - Brutální podlejzák a *trouba*
