@@ -69,8 +69,10 @@
 
 ## Celé dílo
 - 1940
-- Válečný román
-- Epika
+- Literární druh: Epika
+- Literární žánr: Válečný román
+- Literární směr: Realismus (Ztracená generace)
+- Literární forma: Próza
 - Téma: Protifašistický američan jde ve Španělsku odpálit most
 - Motivy: Moc, láska, spolupráce, odboj, partizáni, vize budoucnosti, odhodlání, smrt, zabíjení, válka
 - Myšlenka děje je schována mezi řádky
