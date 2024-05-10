@@ -56,7 +56,7 @@
             - Na jeho obrazu se promítá jeho duševní zkaženost - jeho svědomí
     - Zamiluje se do Sibyly
         - Zasnoubí se
-        - Kvůli Sibyliným horším výkonům ji opustí
+        - Kvůli Sibyliným horším hereckým výkonům ji opustí
     - Stejným způsobem nechává všechny za sebou
         - Nebo je stáhne na cestu za rozkoší, takže opustí své nejbližší
     - Po 18 letech od Sibyliny smrti je z něj známý postrach a zkaženec
