@@ -144,3 +144,8 @@
 
 ## Otázka na konec
 - Je Santiagova věrnost starým principům dobrá?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=JpijWUFMbO4)
+- [Rozbor s dějem a jazykem](https://rozbor-dila.cz/starec-a-more-rozbor-dila-k-maturite-4/)
+- [Wikipedie](https://cs.wikipedia.org/wiki/Sta%C5%99ec_a_mo%C5%99e)
