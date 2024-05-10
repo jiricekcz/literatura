@@ -126,7 +126,7 @@
     - Se všemi má dobrý vztah
 
 ## Vypravěč
-- Er forma
+- Er forma (hodně vnitřních monologů Roberta, teoreticky by mohlo jít o části s vypravěčem v ich formě)
 - Osobní
 - Typy promluv
     - Přímá
@@ -138,6 +138,9 @@
 
 ## Jazyková vrstva
 - Převážně spisovný, občas hovorový - partizáni, vulgární
+    - Jazyk vypovídá o půbodu postav
+        - Robert je spisovný, inteligentní
+        - Pratizáni mluví spíše hovorově
 - Archaismy, španělské výrazy
 - Američan je spisovný, partizánští prosťáčci hovoroví
 
