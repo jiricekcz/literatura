@@ -116,7 +116,7 @@
 
 ## Vypravěč
 - Er-forma
-    - Docela zbytečné, mohla by být ich-forma
+    - Docela zbytečné, mohla by být ich-forma (hodně vnitřních monologů, splývají s vnějšími monology, Santiago je sám)
 - Vševědoucí typ
 - Typy promluv
     - Přímá řeč
