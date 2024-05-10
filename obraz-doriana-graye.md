@@ -49,6 +49,7 @@
 ## Postavy
 - Dorian Gray
     - Mladý, krásný a nevinný muž
+    - Narcistický aristokrat
     - Vlivem Henryho Cynismu se změní
         - Uvědomí si pomíjivost mládí
         - Začne vyznávat čistou rozkoš
