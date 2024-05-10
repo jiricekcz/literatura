@@ -18,6 +18,7 @@
         - Člověk neměl výběr žít, ale má absolutní svobodu
         - Albert Camus: Cizinec
         - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
 
 ## Samuel Beckett
 - Paříž
