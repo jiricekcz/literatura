@@ -128,7 +128,7 @@
 
 ## Jazyková vrstva
 - Spisovné
-- Rybářský slang
+- Rybářský slang (španělština)
 - Slušní lidé
 - Prostředky
     - Metafory, personifikace, přirovnání, symboly
