@@ -38,7 +38,7 @@
 
 - Další díla
     - Proces
-    - Zátencialismus
+    - Zámek
 
 ## Ukázka
 - Zařazení do knihy
@@ -48,7 +48,7 @@
 ## Celé dílo
 - 1915
 - Povídka
-- Epika
+- Lyriko-epika
 - Obchodník se promění v brouka
 - Užitečnost, co vydrží láska, absurdita, brouk, vůle, samota
 - Existencialismus
