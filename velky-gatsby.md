@@ -5,8 +5,8 @@
     - Válka
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
-        - Autoři, kteří se narodili kolem roku 1900 a bojovali v WWI.
-        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům
+        - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
+        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde využíváno ve smyslu neznaje cesty, smyslu života)
         - Ztratili 
             - své místo ve světě
             - pohled na budoucnost
@@ -16,32 +16,17 @@
             - normální studium
         - Gertrude Steinová
             - Termín Ztracená generace
-        - Ernest Hemingway
-            - Stařec a moře
-            - Komu zvoní hrana
-            - Fiesta (citoval Steinovou, popularizoval termín ztracená generace)
-        - John Steinbeck
-            - O myších a lidech
-            - Hrozny hněvu
-        - Erich Maria Remarque
-            - Na západní frontě klid
-    - Existencionalismus
+        - John Steinbeck: O myších a lidech
+        - Erich Maria Remarque: Na západní frontě klid
+        - Francis Scott Fitzgerald: Velký Gatsby
+    - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
         - Potlačen děj, hodně popisu, úvahy o smyslu života
         - Hrdinově v beznaději, zbyteční
-        - Albert Camus
-            - Cizinec
-        - Jean Paul Sartre
-            - Zeď
-    - Expresionismus
-        - Obavy o osud světa, pocity hrůzy, zděšení
-        - Vlastní prožitek je ta pravá skutečnost
-        - Motivy snů, fantasy, vyjádření vnitra
-        - Karel a Josef Čapek
-            - Bílá nemoc, R.U.R.
-        - Franz Kafka
-            - Proměna, Proces
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
 
 ## Francis Scott Fitzgerald
 - Amerika, Minnesota
@@ -52,7 +37,6 @@
     - Po válce se oženil a napsal Velkého Gatsbyho
     - Romány se za života moc neprodávaly
 - Ztracená generace
-- Expresionismus
 - Další díla
     - Něžná je noc
         - O psychiatru
@@ -127,8 +111,7 @@
 
 ## Jazyková vrstva
 - Spisovné
-- Sociální skupina postav + vliv na jazyk
-- Prostředky
+- Vychovaní, slušní lidé
 
 ## Aktuálnost
 - Sny jsou věčné, pořád máme snílky.
