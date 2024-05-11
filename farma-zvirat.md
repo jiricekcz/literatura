@@ -44,8 +44,8 @@
 - Literární žánr: Antiutopistická novela (má některé aspekty bajky, ale na rozdíl od bajky nepopisuje jednu lidskou vlastnost)
 - Literární forma: Próza
 - Téma: Vzpoura zneužívaných proti moci a následný vzestup nové moci, která se stává stejně zlá jako ta předchozí.
+- Motivy: Moc, samostatnost, rovnost, technologie, hlad, práce, neudržitelnost, zneužití, vykořisťování
 - Zvířátka na farmě utváří nový samostatný systém.
-- Moc, samostatnost, rovnost, technologie, hlad, práce
 
 ## Časoprostor
 - Autorova doba
