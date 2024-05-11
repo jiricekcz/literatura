@@ -68,6 +68,7 @@
     - "Napoleon má vždycky pravdu."
     - Pro blaho zvířat upozaďuje své zdraví a bere si pořád víc práce
     - Alegorie pracující třídy
+    - Po smrti odvezen na jatka - alegorie nevděčnosti režimu
 - Prase Pištík
     - Zástupce Napoleona
     - Prolhané
