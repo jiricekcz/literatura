@@ -30,11 +30,6 @@
         - Albert Camus: Cizinec
         - Jean Paul Sartre: Zeď
         - Franz Kafka: Proměna, Proces
-    - Expresionismus
-        - Obavy o osud světa, pocity hrůzy, zděšení
-        - Vlastní prožitek je ta pravá skutečnost
-        - Motivy snů, fantasy, vyjádření vnitra
-        - Karel a Josef Čapek: Bílá nemoc, R.U.R.
 
 ## Ernest Hemingway
 - Amerika
