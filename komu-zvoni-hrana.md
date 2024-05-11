@@ -18,7 +18,7 @@
             - Termín Ztracená generace
         - John Steinbeck: O myších a lidech
         - Erich Maria Remarque: Na západní frontě klid
-    - Existencionalismus
+    - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
         - Potlačen děj, hodně popisu, úvahy o smyslu života
