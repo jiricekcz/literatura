@@ -66,10 +66,12 @@
 
 ## Celé dílo
 - 1925
-- Milostný román
-- Epika s lyrickými prvky
+- Literární žánr: Milostný román
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Americký sen 
 - Mladý muž odhodlaně jde pro svůj sen - lásku konkrétní ženy, přes všechny překážky.
-- Láska, přetvářka, párty, bohatství, milenci, válka
+- Motivy: Láska, přetvářka, párty, bohatství, milenci, válka, neúspěch, osamělost 
 
 ## Časoprostor
 - Autorova doba
@@ -143,3 +145,6 @@
 
 ## Otázka na konec
 - Mohla vůbec Gatsbyho obsese někdy stvořit něco dobrého?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=Q0Tku3sioTI)
