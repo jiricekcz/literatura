@@ -129,7 +129,6 @@
         - Robert je spisovný, inteligentní
         - Pratizáni mluví spíše hovorově
 - Archaismy, španělské výrazy
-- Američan je spisovný, partizánští prosťáčci hovoroví
 
 ## Aktuálnost
 - Válka na Ukrajině taky dostává lidi k ošklivým činům
