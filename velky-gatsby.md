@@ -71,7 +71,7 @@
     - Slepě věří v jejich lásku, v jeho sen
     - Po Daisině incidentu v autě vezme vraždu na své triko
     - Udělal by pro ni vše, pořád věří, že mu napíše a přijde
-    - Nakonec zastřelen ve víře, že Daisy zavolá
+    - Nakonec zastřelen ochotný se za Daisy postavit
     - Nikdo z bohatých párty uživatelů se neobjeví, až na otce to nikoho nezajímá
 - Nick Carraway
     - Vypravěč příběhu
