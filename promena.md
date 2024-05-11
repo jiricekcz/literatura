@@ -64,7 +64,7 @@
 - Řehoř Samsa (Gregor Samsa)
     - Obchodní cestující
     - Trpělivý, pečlivý, zodpovědný, obětavý
-    - Promění se v posteli přes noc v brouka
+    - Promění se v posteli přes noc v brouka (v originále *Ungeziefer* - angl. *Vermin*, česky by mohlo být *škůdce* nebo *havěť*)
     - Živí rodinu
 - Markéta
     - Sestra Řehoře
