@@ -40,8 +40,9 @@
 
 ## Celé dílo
 - 1945
-- Alegorická bajka, antiutopický román
-- Epika
+- Literární druh: Epika
+- Literární žánr: Antiutopistická novela (má některé aspekty bajky, ale na rozdíl od bajky nepopisuje jednu lidskou vlastnost)
+- Literární forma: Próza
 - Zvířátka na farmě utváří nový samostatný systém.
 - Moc, samostatnost, rovnost, technologie, hlad, práce
 
