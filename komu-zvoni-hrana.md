@@ -18,6 +18,7 @@
             - Termín Ztracená generace
         - John Steinbeck: O myších a lidech
         - Erich Maria Remarque: Na západní frontě klid
+        - Francis Scott Fitzgerald: Velký Gatsby
     - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
