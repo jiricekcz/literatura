@@ -56,7 +56,7 @@
 
 ## Časoprostor
 - Autorova doba
-- Prostředí města, místa konání soudu
+- Prostředí města, místa konání soudu, lom
 - Zmatení z chaosu umístění sídel soudu
 
 ## Postavy
