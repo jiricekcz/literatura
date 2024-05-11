@@ -5,8 +5,8 @@
     - Válka
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
-        - Autoři, kteří se narodili kolem roku 1900 a bojovali v WWI.
-        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům
+        - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
+        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde využíváno ve smyslu neznaje cesty, smyslu života)
         - Ztratili 
             - své místo ve světě
             - pohled na budoucnost
@@ -69,11 +69,14 @@
 
 ## Celé dílo
 - 1940
-- Válečný román
-- Epika
+- Literární druh: Epika
+- Literární žánr: Válečný román
+- Literární směr: Realismus (Ztracená generace)
+- Literární forma: Próza
 - Téma: Protifašistický američan jde ve Španělsku odpálit most
-- Motivy: Moc, láska, spolupráce, odboj, partizáni
+- Motivy: Moc, láska, spolupráce, odboj, partizáni, vize budoucnosti, odhodlání, smrt, zabíjení, válka
 - Myšlenka děje je schována mezi řádky
+    - Časté úvahy na smrtí a zabíjení - hrdinové díla jsou smířeni se svou smrtí a "nebojí" se zemřít, ale mají odpor k zabíjení druhých
 - Jmenuje se po verších Johna Donneho
     - „Žádný člověk není ostrov sám pro sebe; každý je kus nějakého kontinentu, část nějaké pevniny; jestliže moře spláchne hroudu, je Evropa menší, jako by to byl nějaký mys, jako by to byl statek tvých přátel nebo tvůj : smrtí každého člověka je mne méně, neboť jsem část lidstva. A proto se nikdy nedávej ptát, komu zvoní hrana. Zvoní tobě.“
         - Citováno jako prolog
@@ -82,6 +85,7 @@
 - Španělská občanská válka (1936-1939)
 - Španělská občanská válka (Španělsko)
 - Celý děj je o Španělské občanské válce
+- Celý děj trvá pouze 3 dny
 
 ## Postavy
 - Robert Jordan
@@ -118,12 +122,13 @@
     - Robertův věrný pomocník
     - Jde s ním celou dobu
     - Zemře při odpalování mostu
+    - Starý, ztrácí sílu, ale je odhodlaný pomoct a nebýt přítěží
 - Rafael
     - Cikán, flegmatický, nadnáší náladu
     - Se všemi má dobrý vztah
 
 ## Vypravěč
-- Er forma
+- Er forma (hodně vnitřních monologů Roberta, teoreticky by mohlo jít o části s vypravěčem v ich formě)
 - Osobní
 - Typy promluv
     - Přímá
@@ -135,6 +140,9 @@
 
 ## Jazyková vrstva
 - Převážně spisovný, občas hovorový - partizáni, vulgární
+    - Jazyk vypovídá o půbodu postav
+        - Robert je spisovný, inteligentní
+        - Pratizáni mluví spíše hovorově
 - Archaismy, španělské výrazy
 - Američan je spisovný, partizánští prosťáčci hovoroví
 
@@ -150,3 +158,6 @@
 
 ## Otázka na konec
 - Jaké prostředky ve válce už účel nesvětí?
+
+## Zdroje
+- [Rozbor se vším](https://rozbor-dila.cz/komu-zvoni-hrana-rozbor-dila-k-maturite/)
