@@ -47,10 +47,11 @@
 
 ## Celé dílo
 - 1915
-- Povídka
-- Epika
-- Obchodník se promění v brouka
-- Užitečnost, co vydrží láska, absurdita, brouk, vůle, samota
+- Literární žánr: Povídka (rozsahem spíš novela)
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Obchodník se promění v brouka
+- Motivy: Užitečnost, co vydrží láska, absurdita, brouk, vůle, samota
 - Existencialismus
 - Předchůdce absurdního divadla
 
@@ -60,10 +61,12 @@
 - Jednota místa, ponorková nemoc
 
 ## Postavy
-- Řehoř Samsa
+- Řehoř Samsa (Gregor Samsa)
     - Obchodní cestující
     - Trpělivý, pečlivý, zodpovědný, obětavý
-    - Promění se v posteli přes noc v brouka
+    - Promění se v posteli přes noc v brouka (v originále *Ungeziefer* - angl. *Vermin*, česky by mohlo být *škůdce* nebo *havěť*)
+        - V češtině běžně překládáno jako brouk
+    - Živí rodinu
 - Markéta
     - Sestra Řehoře
     - Má ho ráda
@@ -110,3 +113,7 @@
 
 ## Otázka na konec
 - Co kurva byla myšlenka tohohle díla?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=X3DQpH8ZKbM&)
+- [Na potítku (Franz Kafka) - YouTube](https://www.youtube.com/watch?v=JvWCJIyOaAw)

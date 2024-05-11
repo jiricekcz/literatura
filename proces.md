@@ -47,15 +47,16 @@
 
 ## Celé dílo
 - 1925 (Max Brod)
-- Psychologický román
-- Epika
-- Nezasvěcený muž prochází soudním procesem
-- Bezmoc, byrokracie, podřízenost, vykonávání povinností
+- Literární žánr: Psychologický román
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Nezasvěcený muž prochází netransparentním soudním procesem
+- Motivy: Bezmoc, byrokracie, podřízenost, vykonávání povinností
 - Kafka chtěl dílo spálit, ale jeho nejlepší přítel Max Brod ho místo toho posmrtně vydal
 
 ## Časoprostor
 - Autorova doba
-- Prostředí města, místa konání soudu
+- Prostředí města, místa konání soudu, lom
 - Zmatení z chaosu umístění sídel soudu
 
 ## Postavy
@@ -158,3 +159,6 @@
 
 ## Otázka na konec
 - Je etické, když Max Brod vydal dílo proti Kafkově přání?
+
+## Zdroje
+- [Na potítku (Franz Kafka) - YouTube](https://www.youtube.com/watch?v=JvWCJIyOaAw)
