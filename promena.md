@@ -65,6 +65,7 @@
     - Obchodní cestující
     - Trpělivý, pečlivý, zodpovědný, obětavý
     - Promění se v posteli přes noc v brouka
+    - Živí rodinu
 - Markéta
     - Sestra Řehoře
     - Má ho ráda
