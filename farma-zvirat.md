@@ -114,6 +114,7 @@
     - Prorok revoluce
     - Vymyslel základy animalismu
     - Dal zvířátkům naději v lepší budoucnost a rovnoprávnost
+    - Alegorie Karla Marxe
 
 ## Vypravěč
 - Er-forma
