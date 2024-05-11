@@ -140,6 +140,8 @@
 
 ## Aktuálnost
 - Dílo poukazuje na vzestup chamtivého a vychytralého totalitáře k moci - velmi aktuální a dlouhodobé.
+- Na rozdíl od 1984, které je nadčasovější a snaží se obecně popisovat dystopický totalitní režim, je Farma zvířat přímo mířena na Sovětský svaz a Stalina.
+    - Až na pár odchylek v podstatě věrně kopíruje historii Sovětského svazu.
 
 ## Vlastní interpretace
 - Děsivé, reálné
