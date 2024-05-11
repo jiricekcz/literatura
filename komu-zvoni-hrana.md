@@ -20,28 +20,21 @@
             - Stařec a moře
             - Komu zvoní hrana
             - Fiesta (citoval Steinovou, popularizoval termín ztracená generace)
-        - John Steinbeck
-            - O myších a lidech
-            - Hrozny hněvu
-        - Erich Maria Remarque
-            - Na západní frontě klid
+        - John Steinbeck: O myších a lidech
+        - Erich Maria Remarque: Na západní frontě klid
     - Existencionalismus
         - Podstata bytí, smysl života
         - Z filozofie
         - Potlačen děj, hodně popisu, úvahy o smyslu života
         - Hrdinově v beznaději, zbyteční
-        - Albert Camus
-            - Cizinec
-        - Jean Paul Sartre
-            - Zeď
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
     - Expresionismus
         - Obavy o osud světa, pocity hrůzy, zděšení
         - Vlastní prožitek je ta pravá skutečnost
         - Motivy snů, fantasy, vyjádření vnitra
-        - Karel a Josef Čapek
-            - Bílá nemoc, R.U.R.
-        - Franz Kafka
-            - Proměna, Proces
+        - Karel a Josef Čapek: Bílá nemoc, R.U.R.
 
 ## Ernest Hemingway
 - Amerika
