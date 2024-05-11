@@ -74,9 +74,9 @@
 - Motivy: Láska, přetvářka, párty, bohatství, milenci, válka, neúspěch, osamělost 
 
 ## Časoprostor
-- Autorova doba
-- Long Island, New York
-- New York - symbol práce, ekonomiky, Long Island - Útěk od všeho, klid, párty
+- Autorova doba (1922)
+- Long Island, New York City
+- New York City - symbol práce, ekonomiky, Long Island - Útěk od všeho, klid, párty
 
 ## Postavy
 - Jay Gatsby
