@@ -36,10 +36,13 @@
 
 ## Celé dílo
 - 1895
-- Komedie
-- Drama
-- Muž si vymyslí fiktivního kamaráda, což se dozví jeho kamarád
-- Lhaní, jména, láska, zodpovědnost, sirotek, původ
+- Literární druh: Drama
+- Literární žánr: Komedie
+- Literární směr: Dekadence
+- Literární forma: Drama
+- Téma: Ironie a nečekaná skutečnost
+- Motivy: Lhaní, jména, láska, zodpovědnost, sirotek, původ
+- Muž si vymyslí fiktivního bratra, což se dozví jeho kamarád a předstírá, že je on (později se dozví, že je to jeho bratr)
 
 ## Časoprostor
 - Autorova doba
@@ -70,7 +73,7 @@
     - Chytrá, bystrá, slušně vychovaná
     - Taky se jí líbí na Algernonovi jméno Filip
 - Lady Bracknellová
-    - Teta Gwendoliny
+    - Matka Gwendoliny
     - Zakáže jim se vzít
         - To vyřeší Jack tak, že povolí svatbu Algernona s Cecílií, jenom pokud je nechá
 - Slečna Prismová
@@ -91,7 +94,9 @@
 - Slušně vychované postavy -> spisovnost
 - Prostředky
     - Ironie + Sarkasmus
-    - Bizarnost
+    - Bizarnost, paradoxy
+- Aforismy
+- Krátké básničky
 
 ## Aktuálnost
 - Lidé lžou pořád a vždy budou
@@ -104,3 +109,9 @@
 
 ## Otázka na konec
 - Je morálně špatně vymýšlet si výmluvy, abychom nezranili toho druhého?
+
+## Zdroje
+
+- [Rozbor s postavami a kontextem](https://rozbor-dila.cz/jak-je-dulezite-miti-filipa-rozbor-dila-k-maturite/)
+- [Wikipedie - krátký děj, stručný popis postav](https://cs.wikipedia.org/wiki/Jak_je_d%C5%AFle%C5%BEit%C3%A9_m%C3%ADti_Filipa)
+- [Celý text digitalizováno](https://www.ndm.cz/userfiles/archiv_priloh/divadelni-archiv/programy/2012-2013/jak-dulezite-je-mit-filipa-text-1349777888.pdf)

@@ -12,6 +12,17 @@
     - Prokletí básníci
         - Francois Villon (Závěť), Paul Verlaine (Prokletí básníci), Charles Baudelaire (Květy zla)
         - Otokar Březina (Ruce), Antonín Sova (Pankrác Budecius, kantor)
+- W. Shakespeare (Refence v díle)
+    - Přímé i nepřřímé odkazy na jeho díla
+        - Romeo a Julie - hráno v divadle a zároveň paralela dvojité sebevraždy
+        - Hamlet - Dorian nepřímo způsobil smrt své milenky, její bratr se snaží smrt své sestry pomstít
+- Bible (Starý zákon) (Refence v díle)
+    - Dorian říká *Já jsem, kdo já jsem.*
+        - Citace Boha přři konverzeci s Mojžíšem
+        - Poukazuje na to, že se Dorian staví na úroveň Boha - v té době velké no-no
+- Druhá kniha Platónovy ústavy
+    - Dorian ničí svými hříchy svou duši, nikoli své tělo 
+        - *I když nikdo nepřijde na tvé hřříchy a nebude to tak mít vliv na stav tvého těla, bude to mít vliv na stav tvé duše.* - parafráze Sokrata z Platónovy ústavy
 
 ## Oscar Wilde
 - Irsko
@@ -36,19 +47,25 @@
 
 ## Celé dílo
 - 1890
-- Novela s hororovými prvky
-- Lyriko-epika
-- Proměna mladého krasavce v prohnilého zkažence
-- Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
+- Literární druh: Epika
+- Literární žánr: Hororový román
+- Literární směr: Dekadence/Romantismus
+    - Námět je romantický, ale zpracování je dekadentní
+- Literární forma: Próza
+- Téma: Proměna mladého krasavce v prohnilého zkažence
+- Motivy: Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
+- Soustředí se převážně na vývoj hlavního hrdiny
 
 ## Časoprostor
 - Autorova doba
-- Londýn
+- Londýn, konec 19. století
 - Sociální život ve městě udává určitý směr ději
 
 ## Postavy
+- V podstatě všechny postavy jsou popisovány negativně (možná kromě Basila)
 - Dorian Gray
-    - Mladý, krásný a nevinný muž
+    - Mladý, krásný a ze začátku nevinný, skoro až naivní, muž
+    - Narcistický aristokrat
     - Vlivem Henryho Cynismu se změní
         - Uvědomí si pomíjivost mládí
         - Začne vyznávat čistou rozkoš
@@ -56,7 +73,7 @@
             - Na jeho obrazu se promítá jeho duševní zkaženost - jeho svědomí
     - Zamiluje se do Sibyly
         - Zasnoubí se
-        - Kvůli Sibyliným horším výkonům ji opustí
+        - Kvůli Sibyliným horším hereckým výkonům ji opustí
     - Stejným způsobem nechává všechny za sebou
         - Nebo je stáhne na cestu za rozkoší, takže opustí své nejbližší
     - Po 18 letech od Sibyliny smrti je z něj známý postrach a zkaženec
@@ -68,6 +85,7 @@
     - Všechny kolem sebe přitáhne na tuto filosofii
     - Obecně ten špatný vliv na Doriana
     - Přítel Basila
+    - Obecná kritika tehdejší Viktoriánské společnosti
 - Basil Hallward
     - Rozumný, hodný a schopný malíř
     - Dorian je pro něj inspirací, ztělesněním krásy
@@ -99,7 +117,9 @@
 ## Kompozice
 - Chronologická
     - Retrospektivní odbočky k Dorianovým opatrovnícím a předkům
-- 22 kapitol
+- Dějové pasáže prokládány citově zabarvenými popisy
+- 20 kapitol
+- Dlouhá předmluva - vytvořena pro obhajobu knihy a ocharnu před cenzurou
 
 ## Jazyková vrstva
 - Spisovný jazyk
@@ -109,6 +129,11 @@
     - Ironie
     - Filosofování
     - Rozsáhlé popisy prostředí
+- Aforismus 
+    - Krátký výrok, podobný lidovému pořekadlu
+    - Využívá alegorii, humor a ironii
+    - Hlubší význam
+    - Typický pro Wilda (v podstatě všechny jeho známé citáty jsou aforismy)
 
 ## Aktuálnost
 - Dodnes se určitá individua vydávají do cest za rozkoší, nehledíc na lidi za nimi.
@@ -127,3 +152,9 @@
 
 ## Otázka na konec
 - Kdy už je pro člověka moc pozdě na nápravu?
+
+## Zdroje
+
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=7IW4NilfdKs)
+- [Rozbor s formálními znaky](https://rozbor-dila.cz/obraz-doriana-graye/)
+- [Celý text digitalizován](https://www.milujemecestinu.cz/citanka/Wilde%20Oscar%20-%20Obraz%20Doriana%20Graye.pdf)
