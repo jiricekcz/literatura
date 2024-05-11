@@ -159,3 +159,6 @@
 
 ## Otázka na konec
 - Je etické, když Max Brod vydal dílo proti Kafkově přání?
+
+## Zdroje
+- [Na potítku (Franz Kafka) - YouTube](https://www.youtube.com/watch?v=JvWCJIyOaAw)
