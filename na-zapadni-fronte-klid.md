@@ -45,25 +45,87 @@
 
 ## Erich Maria Remarque
 
+- Raněn v první světové válce
+- Německý spisovatel
+- Nepřítel nacistů
+
 ## Ukázka
+
 - Zařazení do knihy
 - Téma a smysl
 - Použité jazykové prostředky
 
 ## Celé dílo
 
+- Literární druh: Epika
+- Literární žánr: Román
+- Literární směr: Realismus
+- Literární forma: Próza
+- Téma: Nezmyslnost, absurdita a krutost války
+- Motivy: válka, smrt, přátelství, přežití, zabíjení
+- Myšlneka: Ukázat válku tak, jaká je
+
 ## Časoprostor
+
+- Západní fronta v první světové válce (Francie), 
+- První světová válka (1914 - 1918)
 
 ## Postavy
 
+- Pavel Bäumer
+    - Vypravěč
+    - Mladý voják
+    - Zemře na konci knihy
+    - Dobrvolně se přihlásil do války
+    - Ztratil své přátele
+    - Ztrácí smysl života
+- Stanislaus Katczinsky (Stanislav Kačínský)
+    - Starší voják
+    - Zkušený
+    - Umírá, Pavel se ho snaží zachránit
+    - Předává Pavlovi praktické rady
+        - Jediný nepřítel je smrt
+- Albert Kropp
+    - Pavelův kamarád
+    - Ztrácí nohu
+    - Vzdává život
+- Müller
+    - Pavlův kamarád
+    - Vláčí s sebou učebnice
+- Kantorek
+    - Učitel Pavla
+    - Předává svým žákům nacionalistickou propagandu
+        - U 19/20 uspěje a oni se přihlásí do armády
+    - Později byl povolán do armády
+    - Pavel ho vinní za smrt svých přátel
+- Himmelstoss
+    - velitel výcviku, šikanátor
+    - Časem ho válka změní
+
 ## Vypravěč
+
+- Ich-forma (Paul Bäumer, po jeho smrti se vypravěč mění na er-formu)
 
 ## Kompozice
 
+- Chronologická (retrospektivní v Pavlových vzpomínkách na minulost)
+- Dělení na kapitoly
+- Uzavřený děj - smrt Pavla Bäumera
+
 ## Jazyková vrstva
+
+- Spisovný jazyk v řeči vypravěče
+- Vulgarismy
+- Nářečí, archaismy, hovorový jazyk vojáků, přirovnání, personifikace
 
 ## Aktuálnost
 
-## Vlastní interpretace
+- Nesmyslnost války
+- Nacionalistická propaganda
+- Ztráta smyslu života
 
-## Otázka na konec
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=A7FqvYJ1MKA)
+- [Milan Tvrdík pro FF UK - YouTube](https://www.youtube.com/watch?v=8a_FSi5UNRE)
+- [Rozbor s formálními stránkami](https://rozbor-dila.cz/na-zapadni-fronte-klid-rozbor-dila-k-maturite-7/)
+- [Celý text digitalizováno](https://www.gmct.cz/media/files/library/PDF/Na%20z%C3%A1padn%C3%AD%20front%C4%9B%20klid%20-%20Erich%20Maria%20Remarque.pdf)
