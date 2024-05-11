@@ -47,10 +47,11 @@
 
 ## Celé dílo
 - 1925 (Max Brod)
-- Psychologický román
-- Epika
-- Nezasvěcený muž prochází soudním procesem
-- Bezmoc, byrokracie, podřízenost, vykonávání povinností
+- Literární žánr: Psychologický román
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Nezasvěcený muž prochází netransparentním soudním procesem
+- Motivy: Bezmoc, byrokracie, podřízenost, vykonávání povinností
 - Kafka chtěl dílo spálit, ale jeho nejlepší přítel Max Brod ho místo toho posmrtně vydal
 
 ## Časoprostor
