@@ -5,8 +5,8 @@
     - Válka
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
-        - Autoři, kteří se narodili kolem roku 1900 a bojovali v WWI.
-        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům
+        - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
+        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde využíváno ve smyslu neznaje cesty, smyslu života)
         - Ztratili 
             - své místo ve světě
             - pohled na budoucnost
@@ -69,19 +69,23 @@
 
 ## Celé dílo
 - 1952
-- Symbolická novela
-- Epika
-- Souboj starého rybáře s rubou
-- Odhodlání, síla, moře
+- Literární druh: Epika
+- Literární žánr: Symbolická novela
+- Literární forma: Próza
+- Téma: Souboj starého rybáře s rybou
+- Motivy: Odhodlání, síla, moře
 - Zajímavosti
     - Poslední Hemingwayovo dílo
     - Křesťanská symbolika 
         - Rybářovo sténání je jako hřebíky v ruce
         - Nekonečný souboj s přírodou o přežití (trest vyhnání z ráje)
+    - Symbolika pokroku
+        - Santiago je starý, nepoužívá nové techniky
+        - Reakce na techonologický pokrok způsobený válkou
 
 ## Časoprostor
 - Autorova doba
-- Chata na pobřeží, loďka na moři - na Kubě
+- Chata na pobřeží, loďka na moři - na Kubě u Havany
 - Celý děj je o moři
 
 ## Postavy
@@ -96,6 +100,7 @@
     - Obdivuje moře, "lidi jsou pomíjiví", ryby jsou silné a žijí v souladu s přírodou, lidi je zabíjí
     - Dlouho nic nechytil (84 dní)
         - Pro pořádnou rybu dopluje hodně daleko
+            - Symbol pomyslné hranice na moři typický pro většinu starší literatury - mladí rybáři hranici nevnímají (symbolizuje i pokrok v literatuře)
         - Nakonec ji po několika dnech zápasení uloví
         - Je ale moc daleko a je napaden žraloky, kteří mu ji sežerou
     - Doma dostane spoustu obdivu za obrovskou kostru ryby, rybu mu ale snědli žraloci
@@ -111,7 +116,7 @@
 
 ## Vypravěč
 - Er-forma
-    - Docela zbytečné, mohla by být ich-forma
+    - Docela zbytečné, mohla by být ich-forma (hodně vnitřních monologů, splývají s vnějšími monology, Santiago je sám)
 - Vševědoucí typ
 - Typy promluv
     - Přímá řeč
@@ -123,7 +128,7 @@
 
 ## Jazyková vrstva
 - Spisovné
-- Rybářský slang
+- Rybářský slang (španělština)
 - Slušní lidé
 - Prostředky
     - Metafory, personifikace, přirovnání, symboly
@@ -139,3 +144,8 @@
 
 ## Otázka na konec
 - Je Santiagova věrnost starým principům dobrá?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=JpijWUFMbO4)
+- [Rozbor s dějem a jazykem](https://rozbor-dila.cz/starec-a-more-rozbor-dila-k-maturite-4/)
+- [Wikipedie](https://cs.wikipedia.org/wiki/Sta%C5%99ec_a_mo%C5%99e)
