@@ -2,12 +2,10 @@
 
 ## Literárně-historický kontext
 - Přelom 19. a 20. století
-    - Významné události
-    - Inspirace
 - Anarchističtí buřiči
+    - "Básníci života a vzdoru"
     - Jenom okrajový
     - Česká moderna
-    - "Básníci života a vzdoru"
     - Rozeznávání dobra a zla
     - Autoři
         - Petr Bezruč: Slezské písně
