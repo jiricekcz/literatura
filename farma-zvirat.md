@@ -151,3 +151,9 @@
 
 ## Otázka na konec
 - Dá se vůbec nějakému vůdci věřit?
+
+## Zdroje
+- [Celý text digitalizován](https://www.gmct.cz/media/files/library/PDF/Farma%20zv%C3%AD%C5%99at%20-%20George%20Orwell.pdf)
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=evQQ6_XyQnc)
+- [Rozbor s kontextem](https://rozbor-dila.cz/farma-zvirat-rozbor-dila-k-maturite-3/)
+    - Zbytek informací je úplně na hovno
