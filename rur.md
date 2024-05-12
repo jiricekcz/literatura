@@ -1,12 +1,25 @@
 # R.U.R.
 
 ## Literárně-historický kontext
-- Meziválečná literatura
-    - Reakce na 1. světovou
-    - Inspirace
-    - Expresionismus, ztracená generace
-- Ostatní autoři
-    - Jaroslav Hašek, Vladislav Vančura, Josef Čapek
+- Po WWI.
+    - Antiutopie
+        - Společnost se vyvinula špatným směrem
+        - Ray Bradbury: 451 stupňů Fahrenheita
+        - Karel čapek: Válka s mloky
+        - William Golding: Pán much
+    - Existencialismus
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
+    - Absurdní drama
+        - Samuel Beckett: Čekání na Godota
+        - Václav Havel: Zahradní slavnost
+        - Eugéne Ionesco: Plešatá zpěvačka
+        - Harold Pinter: Krajina
+- Čeští autoři
+    - Jaroslav Hašek: Osudy dobrého vojáka Švejka za světové války
+    - Vladislav Vančura: Rozmarné léto
+    - Josef Čapek: Dášeňka, čili život štěněte
 
 ## Karel Čapek
 - Praha

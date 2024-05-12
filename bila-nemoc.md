@@ -1,13 +1,25 @@
 # Bílá nemoc
 
 ## Literárně-historický kontext
-- Meziválečná literatura
-    - Nárůst fašismu
-    - Chmur
-    - Futurismus, expresionismus, dadaismus
-- Lidem se nelíbí válka, fašismus
-- Ostatní autoři
-    - Jaroslav Hašek, Vladislav Vančura, Josef Čapek
+- Po WWI.
+    - Antiutopie
+        - Společnost se vyvinula špatným směrem
+        - Ray Bradbury: 451 stupňů Fahrenheita
+        - Karel čapek: Válka s mloky
+        - William Golding: Pán much
+    - Existencialismus
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
+    - Absurdní drama
+        - Samuel Beckett: Čekání na Godota
+        - Václav Havel: Zahradní slavnost
+        - Eugéne Ionesco: Plešatá zpěvačka
+        - Harold Pinter: Krajina
+- Čeští autoři
+    - Jaroslav Hašek: Osudy dobrého vojáka Švejka za světové války
+    - Vladislav Vančura: Rozmarné léto
+    - Josef Čapek: Dášeňka, čili život štěněte
 
 ## Karel Čapek
 - Praha
@@ -23,7 +35,7 @@
     - filosofický směr
     - absolutní pravda neexistuje, pravda je užitečnost
     - USA - Charles Peirce
-- R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M., 
+- R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M.
 - Přítel T.G.M.
 
 ## Ukázka
