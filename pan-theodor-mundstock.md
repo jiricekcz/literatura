@@ -64,10 +64,11 @@
 
 ## Celé dílo
 - 1963
-- Psychologický román
-- Epická próza
-- Pan Theodor Mundstock se vypořádává s budoucností v koncentračním táboře
-- Oprese, židé, koncentrační tábory
+- Literární druh: Epika
+- Literární žánr: Psychologický román
+- Literární froma: Próza
+- Téma: Pan Theodor Mundstock se vypořádává s budoucností v koncentračním táboře
+- Motivy: Oprese, židé, koncentrační tábory, psychologie, naděje, příprava, smíření
  
 ## Časoprostor
 - Pol. 20. stol. - Heydrichiáda
@@ -133,3 +134,6 @@
 
 ## Otázka na konec
 - Je přejetí autobusem způsob vyjádření, že pan Theodor Mundstock nemyslel dostatečně na sebe?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=btvZVB8EgL0)
