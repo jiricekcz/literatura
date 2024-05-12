@@ -28,13 +28,14 @@
 - FF v Praze
 - Cestovatel, zemřel na zápal plic
 - Demokratický proud
-    - Přispívání do Lidových novin
+    - Spojuje je přispívání do Lidových novin
     - Karel Poláček (Bylo nás pět)
     - Josef Čapek (Stín kapradin)
 - Pragmatismus
     - filosofický směr
     - absolutní pravda neexistuje, pravda je užitečnost
-    - USA - Charles Peirce
+    - USA - Charles Peirce: něco o logice relací
+- Antiutopie
 - R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M.
 - Přítel T.G.M.
 
@@ -48,8 +49,7 @@
 - Tragédie
 - Protiválečné drama
 - Ve válkou řízené zemi řádí smrtelná nemoc
-- Válkychtivost, mír, strach, manipulace
-- Zajímavosti
+- Válkychtivost, mír, strach, manipulace, nemoc, doktoři
 
 ## Časoprostor
 - Autorova doba
@@ -62,10 +62,14 @@
     - Pacifistický, naivní
     - Pomáhá chudým, neúprosný
     - Objeví lék
+    - Má podmínku, že ošetří chudé a bohaté, kteří aktivně pomohou míru
+    - Umírá na bojišti, snažíce se dostat k Maršálovi, aby ho vyléčil
 - Maršál
     - Diktátor, vojevůdce
     - Odmítá myšlenku míru
     - Nakonec onemocní
+        - Je ochoten přistoupit k míru pro zdraví
+        - Je moc pozdě
 - Baron Krüg
     - Majitel továrny na zbraně
     - Přítel maršála
@@ -73,6 +77,10 @@
 - Sigelius
     - Ředitel nemocnice
     - Touha po slávě a úspěchu
+    - Je proválečný
+    - Podlézá Maršálovi
+- Rodinka
+    - Ukazuje společnost za dění
 
 ## Vypravěč
 - Není
