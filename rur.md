@@ -114,6 +114,11 @@
     - Nechtěl udělat další dílo opakující strach z technického pokroku a 1. světové války
 - Člověk není tak dokonalý
 
+## Zajímavosti
+- Roboti jsou biologičtí, ne techničtí
+    - Jsou ale sestaveni, nerostou, nerodí se
+    - Genetické inženýrství (proces, který teoreticky toto umožňuje) se objevuje až v 70. letech
+
 ## Otázka na konec
 - Má technologický pokrok opravdu i špatné následky? Zleniví lidé, nebo předají moc jinému?
 
