@@ -32,10 +32,11 @@
 
 ## Celé dílo
 - 1920
-- Tragédie
-- Sci-fi, antiutopisické drama
-- Ostrov vyrábějící roboty nakonec zapříčiní zkázu lidstva
-- Lidskost, duše, láska, pracovitost, boží trest
+- Literární druh: Drama
+- Literární žánr: Sci-fi, antiutopie
+- Literární forma: Drama
+- Téma: Ostrov vyrábějící roboty nakonec zapříčiní zkázu lidstva
+- Motivy: Lidskost, duše, láska, pracovitost, boží trest, oslava hrdinství člověka (Čapkovo zamýšlené poselství díla)
 - Inspirace 1. světovou - využití techniky proti lidem
 
 ## Časoprostor
@@ -103,3 +104,8 @@
 
 ## Otázka na konec
 - Má technologický pokrok opravdu i špatné následky? Zleniví lidé, nebo předají moc jinému?
+
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=Pn3SJIpEbSc)
+    - Shrnutí iterpretací
