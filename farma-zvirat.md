@@ -8,12 +8,13 @@
         - Společnost se vyvinula špatným směrem
         - Ray Bradbury: 451 stupňů Fahrenheita
         - Karel čapek: Válka s mloky
+        - William Golding: Pán much
     - Existencialismus
         - Albert Camus: Cizinec
         - Jean Paul Sartre: Zeď
         - Franz Kafka: Proměna, Proces
     - Absurdní drama
-        - Samuel Beckett - Čekání na Godota
+        - Samuel Beckett: Čekání na Godota
         - Václav Havel: Zahradní slavnost
         - Eugéne Ionesco: Plešatá zpěvačka
         - Harold Pinter: Krajina
