@@ -97,8 +97,11 @@
 ## Vlastní interpretace
 - Dva extrémy - pro a proti válce
 - Pro mír se musí konat
-- Kritizuje, jak nesmyslně potřebují lidé mír
+- Kritizuje, jak nesmyslně potřebují lidé válku
 - Metafora pro Hitlera v nacistickém Německu
 
 ## Otázka na konec
-- Světí účel prostředky? (Galén nechával umírat lidi)
+- Světí účel prostředky? (Galén nechával umírat lidi, vydíral - obecně nectil Hippokratovu přísahu)
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=y9gwXi-tPpI)
