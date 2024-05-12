@@ -54,8 +54,8 @@
 - Ruský romantismus
 - Další díla
     - poemy: Ruslan a Ludmila, Poltava
-- Zajímavosti
     - pohádky: Pohádka o zlatém kohoutkovi
+- Zajímavosti
     - lyrické básně: Rusalka, Slavík a růže, Mnich
 
 ## Ukázka
