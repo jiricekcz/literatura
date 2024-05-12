@@ -99,7 +99,19 @@
     - Roboti na konec jsou Adam a Eva
     - Boží trest neplodnosti žen
     - Vůbec tvorba lidí
-- Čapek varuje před rychlým technologickým pokrokem a snaží se lidstvo držet u země s myšlenkou štěstí
+- Varování před zneužitím technologie
+    - Dílo varuje před rychlým technologickým pokrokem a snaží se lidstvo držet u země s myšlenkou štěstí
+    - Čapek se této interpretaci brání, převážně tím, že poukazuje na, že roboti jsou biologičtí, ne techničtí v dnešním slova smyslu
+- Marxistická iterpretace
+    - Roboti jsou proletariát
+    - Nastává, dle Marxe nevyhnutelná, dikatura proletariátu
+- Poukázání na lidské hrdinství
+    - Autorova zamýšlená interpretace
+    - Dnes nepříliš populární, protože s odstupem více sedí ostatní interpretace
+    - Vyvrcholením díla je podle této interpretace scéna, kdy si lidé obklíčení roboty obhajují své jednání
+    - Poukazuje na vůli člověka přežít
+    - Zvýrazňuje, jak cenné je lidstvo
+    - Nechtěl udělat další dílo opakující strach z technického pokroku a 1. světové války
 - Člověk není tak dokonalý
 
 ## Otázka na konec
