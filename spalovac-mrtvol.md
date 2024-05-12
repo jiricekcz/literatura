@@ -64,11 +64,11 @@
 
 ## Celé dílo
 - 1967
-- Novela až román
-- Spíše lyrika než epika
-    - Hodně myšlenek protagonisty
+- Literární druh: Epika
+- Literární žánr: Novela
+- Literární froma: Próza
 - Téma: Pracovník krematoria posedlý smrtí postupně podléhá nacistické ideologii
-- Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství
+- Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství, manipulace, propaganda
 - Zajímavosti
 
 ## Časoprostor
@@ -128,3 +128,6 @@
 
 ## Otázka na konec
 - Připodobňoval autor nacismus ke smrti?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=jIjtzOcoFsY)
