@@ -39,6 +39,8 @@
 - Téma: Ve válkou řízené zemi řádí smrtelná nemoc
 - Motivy: Válkychtivost, mír, strach, manipulace, dosažení dobrého cíle neetickými prostředky
 - Zajímavosti
+    - Dílo kritizováno nacisty (obviously)
+    - Také kritizováno doktory (nevrhalo na ně dobré světlo)
 
 ## Časoprostor
 - Autorova doba
