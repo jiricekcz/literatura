@@ -64,8 +64,9 @@
 
 ## Celé dílo
 - 1967
-- Novela až román
-- Epika
+- Literární druh: Epika
+- Literární žánr: Novela
+- Literární froma: Próza
 - Téma: Pracovník krematoria posedlý smrtí postupně podléhá nacistické ideologii
 - Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství
 - Zajímavosti
