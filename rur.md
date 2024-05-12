@@ -72,7 +72,6 @@
     - Vyžívá se ve fyzické práci, práce šlechtí
     - Zůstane jako poslední člověk
     - Cení si lidstva
-
 - Dr. Gall
     - Snaží se roboty zdokonalit
     - Kvůli Heleně dá robotům duši
