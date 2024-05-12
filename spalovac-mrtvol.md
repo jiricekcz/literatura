@@ -68,7 +68,7 @@
 - Literární žánr: Novela
 - Literární froma: Próza
 - Téma: Pracovník krematoria posedlý smrtí postupně podléhá nacistické ideologii
-- Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství
+- Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství, manipulace, propaganda
 - Zajímavosti
 
 ## Časoprostor
