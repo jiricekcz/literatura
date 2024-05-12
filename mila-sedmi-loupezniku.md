@@ -91,7 +91,6 @@
 - Spisovnovné
 - Archaismy
     - úhrn, žandarma, líc
-- No slang
 - Všichni to byli divoši
     - I přesto spisovní
     - Jistý rozpor mezi postavou a jazykem

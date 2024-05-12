@@ -14,6 +14,7 @@
         - František Gellner: Po nás ať přijde potopa
         - Karel Toman: Torzo života
         - Josef Mach: Hrátky s čertem
+- Alois Jirásek: Staré pověsti české, Lucerna
 
 ## Viktor Dyk
 - Česko
@@ -23,16 +24,8 @@
 - Žák Aloise Jiráska
 - Časopis Lumír a poté Národní listy
 - Anarchističtí buřiči
-    - Jenom okrajový
-    - Česká moderna
-    - "Básníci života a vzdoru"
-    - Rozeznávání dobra a zla
-    - ostatní autoři proudu
-        - Fráňa Šrámek
-        - Petr Bezruč
-        - Stanislav Kostka Neumann
 - Další díla
-    - Milá sedmi loupežníků
+    - Krysař
     - Zmoudření Dona Quijota
 - Přináší rozpor mezi mravním ideálem a realitou
     - Vzpoura proti společnosti
@@ -67,13 +60,13 @@
     - Má píšťalu, kterou naláká cokoliv
     - Na konci jí použije, aby celé město skočilo s ním do propasti
         - Kvůli smrti Agnes a zradě Radních
+    - Romantický hrdina
 - Agnes
     - Hodná, nevinná, mladá
     - Zamilovaná do krysaře
     - Snoubenka Kristiána
         - Když se dozví, že má jeho dítě, skočí do propasti
         - Do Sedmihradské země 
-    - Romantický hrdina
 - Dlouhý Kristián
     - Docela zámožný
     - Snoubenec Agnes
@@ -125,6 +118,8 @@
     - Nebojí se ani ďábla.
     - Zároveň se u něj našla láska a cit.
 - Chamtiví radní si zahrávají s mužem, se kterým si nemají zahrávat.
+- Krysař může být také metafora pro anarchistické buřiče
+    - Sepp Jorgen je smíření s realitou
 - Myšlenka spravedlnosti, že ani radní si nemohou dělat úplně co chtějí.
 
 ## Otázka na konec
