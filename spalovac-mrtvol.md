@@ -128,3 +128,6 @@
 
 ## Otázka na konec
 - Připodobňoval autor nacismus ke smrti?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=jIjtzOcoFsY)
