@@ -72,7 +72,7 @@
 - Lakota, lhaní, podplácení, podlézání
 
 ## Časoprostor
-- 19. století
+- Autorova doba
 - Prostě městečko
 - Dění v městečku je doslova dějem
 
