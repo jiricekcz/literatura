@@ -40,6 +40,7 @@
         - Fjedor Michaljevič Dostojevksij: Zločin a trest, Idiot
         - Lev Nikolajevič Tolstoj: Vojna a mír
         - Anton Pavlovič Čechov: Višňový sad
+        - Nikolaj Vasiljevič Gogol: Revizor
         - Stendhal: Červený a černý
         - Honoré de Balzac: Lidská komedie
         - Emil Zola: Zabiják, Nana
@@ -67,7 +68,7 @@
 ## Celé dílo
 - cca 1830
 - Veršovaný román
-- Lyriko-epika, sp9še epika
+- Lyriko-epika, spíše epika
 - Znuděný ruský šlechtic nalézá zábavu v novém příteli
 - Nuda, láska (opětovaná i neopětovaná), šlechta, přátelství, zrada, hledání klidu
 - Napsáno ve vyhnanství na jihu Ruska
