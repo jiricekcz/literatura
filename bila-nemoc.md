@@ -33,10 +33,11 @@
 
 ## Celé dílo
 - 1937
-- Tragédie
-- Protiválečné drama
-- Ve válkou řízené zemi řádí smrtelná nemoc
-- Válkychtivost, mír, strach, manipulace
+- Literární druh: Drama
+- Literární žánr: Protiválečná tragédie
+- Literární forma: Drama
+- Téma: Ve válkou řízené zemi řádí smrtelná nemoc
+- Motivy: Válkychtivost, mír, strach, manipulace, dosažení dobrého cíle neetickými prostředky
 - Zajímavosti
 
 ## Časoprostor
