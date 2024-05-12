@@ -65,8 +65,7 @@
 ## Celé dílo
 - 1967
 - Novela až román
-- Spíše lyrika než epika
-    - Hodně myšlenek protagonisty
+- Epika
 - Téma: Pracovník krematoria posedlý smrtí postupně podléhá nacistické ideologii
 - Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství
 - Zajímavosti
