@@ -16,24 +16,17 @@
             - Má sny, které ale společnost neuznává
         - Opak klasicismu
             - Svoboda, bizarnost, neřád, gotika
-    - Alexandr Sergejevič Puškin
-        - Evžen Oněgin
-    - Lev Nikolajevič Tolstoj
-        - Anna Karenina
-    - George Gordon Byron
-        - Don Juan
-        - Childe Haroldova pouť
-    - Bratři Grimové
-        - Němečtí
-        - V podstatě sepsali nejznámější pohádky, jako Sněhurka nebo Růženka
-    - Victor Hugo
-        - Bídníci
-    - Karel Hynek Mácha
-        - Máj
-    - Karel Jaromír Erben
-        - Kytice
-    - Josef Kajetán Tyl
-        - Fidlovačka
+    - Autoři
+        - Alexandr Sergejevič Puškin: Evžen Oněgin
+        - Lev Nikolajevič Tolstoj: Anna Karenina
+        - George Gordon Byron: Don Juan, Childe Haroldova pouť
+        - Bratři Grimové
+            - Němečtí
+            - V podstatě sepsali nejznámější pohádky, jako Sněhurka nebo Růženka
+        - Victor Hugo: Bídníci
+        - Karel Hynek Mácha: Máj
+        - Karel Jaromír Erben: Kytice
+        - Josef Kajetán Tyl: Fidlovačka
 - Realismus
     - Charakteristika
         - Každodennost, banalita
@@ -43,25 +36,15 @@
         - Most mezi romantismem a naturalismem
         - Člověk je vytvářen prostředím, ve kterém žije
         - Typický jedinec
-    - Fjedor Michaljevič Dostojevksij
-        - Zločin a trest
-        - Idiot
-    - Lev Nikolajevič Tolstoj
-        - Anna Karenina
-        - Vojna a mír
-    - Anton Pavlovič Čechov
-        - Višňový sad
-    - Stendhal
-        - Červený a černý
-    - Honoré de Balzac
-        - Lidská komedie
-    - Emil Zola
-        - Zabiják, Nana
-    - Charles Dickens
-        - Oliver Twist
-        - Vánoční koleda
-        - David Copperfield - Autobiografie
-            - Pojmenoval se podle toho iluzionista
+    - Autoři
+        - Fjedor Michaljevič Dostojevksij: Zločin a trest, Idiot
+        - Lev Nikolajevič Tolstoj: Vojna a mír
+        - Anton Pavlovič Čechov: Višňový sad
+        - Nikolaj Vasiljevič Gogol: Revizor
+        - Stendhal: Červený a černý
+        - Honoré de Balzac: Lidská komedie
+        - Emil Zola: Zabiják, Nana
+        - Ernest Hemingway: Komu zvoní hrana
 
 ## Alexandr Sergejevič Puškin
 - Rusko
@@ -74,7 +57,6 @@
 - Ruský romantismus
 - Další díla
     - poemy: Ruslan a Ludmila, Poltava
-- Zajímavosti
     - pohádky: Pohádka o zlatém kohoutkovi
     - lyrické básně: Rusalka, Slavík a růže, Mnich
 
@@ -86,7 +68,7 @@
 ## Celé dílo
 - cca 1830
 - Veršovaný román
-- Lyriko-epika, sp9še epika
+- Lyriko-epika, spíše epika
 - Znuděný ruský šlechtic nalézá zábavu v novém příteli
 - Nuda, láska (opětovaná i neopětovaná), šlechta, přátelství, zrada, hledání klidu
 - Napsáno ve vyhnanství na jihu Ruska

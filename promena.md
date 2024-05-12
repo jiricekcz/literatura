@@ -38,7 +38,7 @@
 
 - Další díla
     - Proces
-    - Zátencialismus
+    - Zámek
 
 ## Ukázka
 - Zařazení do knihy

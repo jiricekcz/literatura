@@ -2,13 +2,18 @@
 
 ## Literárně-historický kontext
 - Přelom 19. a 20. století
-    - Významné události
-    - Inspirace
-    - Anarchističtí buřiči
-- Reakce na dobu
-- Ostatní autoři
-    - Jan Neruda
-    - Alois Jirásek
+- Anarchističtí buřiči
+    - "Básníci života a vzdoru"
+    - Jenom okrajový
+    - Česká moderna
+    - Rozeznávání dobra a zla
+    - Autoři
+        - Petr Bezruč: Slezské písně
+        - Stanislav Kostka Neumann: Kniha lesů vod a strání
+        - Fráňa Šrámek: Splav
+        - František Gellner: Po nás ať přijde potopa
+        - Karel Toman: Torzo života
+        - Josef Mach: Hrátky s čertem
 
 ## Viktor Dyk
 - Česko
@@ -18,14 +23,6 @@
 - Žák Aloise Jiráska
 - Časopis Lumír a poté Národní listy
 - Anarchističtí buřiči
-    - Jenom okrajový
-    - Česká moderna
-    - "Básníci života a vzdoru"
-    - Rozeznávání dobra a zla
-    - ostatní autoři proudu
-        - Fráňa Šrámek
-        - Petr Bezruč
-        - Stanislav Kostka Neumann
 - Další díla
     - Krysař
     - Zmoudření Dona Quijota
@@ -94,7 +91,6 @@
 - Spisovnovné
 - Archaismy
     - úhrn, žandarma, líc
-- No slang
 - Všichni to byli divoši
     - I přesto spisovní
     - Jistý rozpor mezi postavou a jazykem

@@ -48,7 +48,7 @@
 ## Celé dílo
 - 1890
 - Literární druh: Epika
-- Literární žánr: Hororový román
+- Literární žánr: Hororový až psychologický román
 - Literární směr: Dekadence/Romantismus
     - Námět je romantický, ale zpracování je dekadentní
 - Literární forma: Próza

@@ -33,11 +33,14 @@
 
 ## Celé dílo
 - 1937
-- Tragédie
-- Protiválečné drama
-- Ve válkou řízené zemi řádí smrtelná nemoc
-- Válkychtivost, mír, strach, manipulace
+- Literární druh: Drama
+- Literární žánr: Protiválečná tragédie
+- Literární forma: Drama
+- Téma: Ve válkou řízené zemi řádí smrtelná nemoc
+- Motivy: Válkychtivost, mír, strach, manipulace, dosažení dobrého cíle neetickými prostředky
 - Zajímavosti
+    - Dílo kritizováno nacisty (obviously)
+    - Také kritizováno doktory (nevrhalo na ně dobré světlo)
 
 ## Časoprostor
 - Autorova doba
@@ -96,8 +99,11 @@
 ## Vlastní interpretace
 - Dva extrémy - pro a proti válce
 - Pro mír se musí konat
-- Kritizuje, jak nesmyslně potřebují lidé mír
+- Kritizuje, jak nesmyslně potřebují lidé válku
 - Metafora pro Hitlera v nacistickém Německu
 
 ## Otázka na konec
-- Světí účel prostředky? (Galén nechával umírat lidi)
+- Světí účel prostředky? (Galén nechával umírat lidi, vydíral - obecně nectil Hippokratovu přísahu)
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=y9gwXi-tPpI)
