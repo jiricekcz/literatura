@@ -40,10 +40,12 @@
 
 ## Celé dílo
 - 1945
-- Alegorická bajka, antiutopický román
-- Epika
+- Literární druh: Epika
+- Literární žánr: Antiutopistická novela (má některé aspekty bajky, ale na rozdíl od bajky nepopisuje jednu lidskou vlastnost)
+- Literární forma: Próza
+- Téma: Vzpoura zneužívaných proti moci a následný vzestup nové moci, která se stává stejně zlá jako ta předchozí.
+- Motivy: Moc, samostatnost, rovnost, technologie, hlad, práce, neudržitelnost, zneužití, vykořisťování
 - Zvířátka na farmě utváří nový samostatný systém.
-- Moc, samostatnost, rovnost, technologie, hlad, práce
 
 ## Časoprostor
 - Autorova doba
@@ -66,6 +68,7 @@
     - "Napoleon má vždycky pravdu."
     - Pro blaho zvířat upozaďuje své zdraví a bere si pořád víc práce
     - Alegorie pracující třídy
+    - Po smrti odvezen na jatka - alegorie nevděčnosti režimu
 - Prase Pištík
     - Zástupce Napoleona
     - Prolhané
@@ -111,6 +114,7 @@
     - Prorok revoluce
     - Vymyslel základy animalismu
     - Dal zvířátkům naději v lepší budoucnost a rovnoprávnost
+    - Alegorie Karla Marxe
 
 ## Vypravěč
 - Er-forma
@@ -136,6 +140,8 @@
 
 ## Aktuálnost
 - Dílo poukazuje na vzestup chamtivého a vychytralého totalitáře k moci - velmi aktuální a dlouhodobé.
+- Na rozdíl od 1984, které je nadčasovější a snaží se obecně popisovat dystopický totalitní režim, je Farma zvířat přímo mířena na Sovětský svaz a Stalina.
+    - Až na pár odchylek v podstatě věrně kopíruje historii Sovětského svazu.
 
 ## Vlastní interpretace
 - Děsivé, reálné
@@ -145,3 +151,9 @@
 
 ## Otázka na konec
 - Dá se vůbec nějakému vůdci věřit?
+
+## Zdroje
+- [Celý text digitalizován](https://www.gmct.cz/media/files/library/PDF/Farma%20zv%C3%AD%C5%99at%20-%20George%20Orwell.pdf)
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=evQQ6_XyQnc)
+- [Rozbor s kontextem](https://rozbor-dila.cz/farma-zvirat-rozbor-dila-k-maturite-3/)
+    - Zbytek informací je úplně na hovno
