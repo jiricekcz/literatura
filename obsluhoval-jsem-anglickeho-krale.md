@@ -48,16 +48,17 @@
 
 ## Celé dílo
 - 1971
-- Vývojový román
-- Epika
+- Literární žánr: Vývojový román
+- Literární druh: Epika
+- Literární forma: Próza
 - Téma: Život prosťáčka, toužícího být milionářem
-- Motivy: Peníze, snaživost, sex, úspěch, cílevědomost, rasová otázka
+- Motivy: Peníze, snaživost, sex, úspěch, cílevědomost, rasová otázka, socioekonomická segregace
 - Zajímavosti
     - Publikována až 1980 v bezvýdělečné občanské sekci
         - Kvůli erotice / kritice totality
 
 ## Časoprostor
-- Období kolem zabrání Česka nacisty
+- Období kolem zabrání Česka nacisty - Komunistický převrat
 - Česko - pohraničí, Praha
 - Život v praze je nóbl, hotely, peníze
 - Život na venkovu je klidný, moudrý
@@ -85,11 +86,12 @@
     - Kvůli Líze se přejmenuje a nechá testovat že dokáže oplodnit arijskou rasu
         - Složíme peníze a budeme milionáři a koupíme si hotel a budeme hoteliéři
     - Poté se stará o vesničku s účelem oplodňování arijek a křížení perfektní rasy
-    - Nakonec po Líze zdědí známky a koupí si hotel
+    - Nakonec po Líze zdědí známky (kradené od deportovaných židů) a koupí si hotel
     - Po státním převratu je jeho hotel vyvlastňen a on poslán do vězení pro milionáře
         - Chce tam být, cítí se, že tam patří, že je milionář
     - Po propuštění z vězení zaměstnán na Šumavě jako opravář cest 
         - Tam konečně nalézá klid, mír, štěstí
+        - Nepociťuje dělení společnosti
 - Líza
     - Německá učitelka tělocviku z Chebu
     - Velitelka mediků
@@ -148,3 +150,8 @@
 
 ## Otázka na konec
 - Když peníze kupují štěstí, tak proč je štěstí podle knihy dosažitelné pouze bez peněz?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=L-G_pzcvCHo)
+    - Dlouhý AF
+- [Na potítku (Bohumil Hrabal) - YouTube](https://www.youtube.com/watch?v=m_kUZaRpck8)

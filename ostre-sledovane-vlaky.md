@@ -6,7 +6,7 @@
     - Jan Palach a Zajíc
 - Ostatní autoři
     - Ladislav Fuks: Spalovač mrtvol
-    - Jan Otčenášek: Romeo a Julie a tma
+    - Jan Otčenášek: Romeo, Julie a tma
     - Arnošt Lustig
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
@@ -48,10 +48,11 @@
 
 ## Celé dílo
 - 1965
-- Novela
-- Epika
-- Dospívání mladého výpravčího v období protektoriátu
-- Sex, vlaky, partizáni, disciplína
+- Literární žánr: Novela
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Dospívání mladého výpravčího v období protektoriátu
+- Motivy: Sex, vlaky, partizáni, disciplína
 - Zajímavosti
     - Podle Hrabalových zkušeností v Kostomlatech
 
@@ -110,3 +111,7 @@
 
 ## Otázka na konec
 - Kde končí disciplína a začíná útlak člověka?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=SQaX-4TGvf8&t=960s)
+- [Na potítku (Bohumil Hrabal) - YouTube](https://www.youtube.com/watch?v=m_kUZaRpck8)
