@@ -87,7 +87,6 @@
     - Schizofrenie 
         - stín Mon
         - Také si v hlavě odehrává spoustu scénářů z koncentračního tábora a vlaků
-    - 
 - Stín Mon
     - Symbol pochyb, temných myšlenek
     - (Ši)Mon
