@@ -30,7 +30,6 @@
     - Kulisák
 - Po zákazu dostudoval práva na UK
 - Surrealismus
-- Inspirace: alkohol, vlastní zkušenost
 - Další díla
     - Ostře sledované vlaky
     - Hovory lidí
@@ -38,12 +37,21 @@
         - Filosofie: v každém z nás je něco krásného
     - Slavnosti sněženek
         - Dvě vesnické skupiny se handrkují, jak mají upéct střeleného kance, až jim ho nakonec sní řezník
+    - Pábitelé
+        - Snílci
 - Popisuje život jako takový
     - Jeho hrdinové jsou nezajímaví, prostí
         - Sní o životě, ale žádný nemají
     - Existencialismus I guess
+    - Někdy označován za absolutní realismus
 - Později v životě začal hodně pít
     - Jeho témata začala vážnět
+- Psal velmi specificky
+    - Jako by ve větách dokázal ukázat, že ví všechno na světě
+    - Hrozně dobře se to čte
+    - Psal tak jako krásně, mile, běžně
+    - "plné neotřelého vidění, poznání a hodnocení světa"
+- Bro prostě všechno zažil a teď o tom píše
 
 ## Ukázka
 - Zařazení do knihy
@@ -137,7 +145,6 @@
     - Obecná čeština
 - Vulgarismy
 - Číšnický žargon
-- Sociální skupina postav + vliv na jazyk
 - Prostředky
     - Píše hodně volným stylem
     - Typické pro surrealismus
