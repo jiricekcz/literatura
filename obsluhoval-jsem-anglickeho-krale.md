@@ -150,3 +150,8 @@
 
 ## Otázka na konec
 - Když peníze kupují štěstí, tak proč je štěstí podle knihy dosažitelné pouze bez peněz?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=L-G_pzcvCHo)
+    - Dlouhý AF
+- [Na potítku (Bohumil Hrabal) - YouTube](https://www.youtube.com/watch?v=m_kUZaRpck8)
