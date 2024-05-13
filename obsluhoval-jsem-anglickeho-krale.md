@@ -91,6 +91,7 @@
         - Chce tam být, cítí se, že tam patří, že je milionář
     - Po propuštění z vězení zaměstnán na Šumavě jako opravář cest 
         - Tam konečně nalézá klid, mír, štěstí
+        - Nepociťuje dělení společnosti
 - Líza
     - Německá učitelka tělocviku z Chebu
     - Velitelka mediků
