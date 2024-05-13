@@ -86,7 +86,7 @@
     - Kvůli Líze se přejmenuje a nechá testovat že dokáže oplodnit arijskou rasu
         - Složíme peníze a budeme milionáři a koupíme si hotel a budeme hoteliéři
     - Poté se stará o vesničku s účelem oplodňování arijek a křížení perfektní rasy
-    - Nakonec po Líze zdědí známky a koupí si hotel
+    - Nakonec po Líze zdědí známky (kradené od deportovaných židů) a koupí si hotel
     - Po státním převratu je jeho hotel vyvlastňen a on poslán do vězení pro milionáře
         - Chce tam být, cítí se, že tam patří, že je milionář
     - Po propuštění z vězení zaměstnán na Šumavě jako opravář cest 
