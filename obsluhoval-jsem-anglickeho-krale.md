@@ -58,7 +58,7 @@
         - Kvůli erotice / kritice totality
 
 ## Časoprostor
-- Období kolem zabrání Česka nacisty
+- Období kolem zabrání Česka nacisty - Komunistický převrat
 - Česko - pohraničí, Praha
 - Život v praze je nóbl, hotely, peníze
 - Život na venkovu je klidný, moudrý
