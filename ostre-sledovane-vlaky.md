@@ -1,13 +1,17 @@
 # Ostře sledované vlaky
 
 ## Literárně-historický kontext
-- 2. Etapa literatury 2. světové
-    - Okupace komunisty
-    - Jan Palach a Zajíc
+- 2. Etapa literatury 2. světové a holokaustu
+    - Každý buď sloužil režimu, nebo proti němu nebrojil
+    - Strach, hněv
+    - Reakce na 2. světovou
+        - Heydrichiáda
+    - 60. léta 20. stol.
+        - Normalizace
 - Ostatní autoři
-    - Ladislav Fuks: Spalovač mrtvol
-    - Jan Otčenášek: Romeo, Julie a tma
-    - Arnošt Lustig
+    - Ladislav Fuks: Spalovač mrtvol, Pan Theodor Mundstock
+    - Jan Otčenášek: Romeo a Julie a tma
+    - Arnošt Lustig: Noc a naděje
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
     - Jaromír Nohavica: Dokud se zpívá
