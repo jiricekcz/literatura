@@ -48,10 +48,11 @@
 
 ## Celé dílo
 - 1971
-- Vývojový román
-- Epika
+- Literární žánr: Vývojový román
+- Literární druh: Epika
+- Literární forma: Próza
 - Téma: Život prosťáčka, toužícího být milionářem
-- Motivy: Peníze, snaživost, sex, úspěch, cílevědomost, rasová otázka
+- Motivy: Peníze, snaživost, sex, úspěch, cílevědomost, rasová otázka, socioekonomická segregace
 - Zajímavosti
     - Publikována až 1980 v bezvýdělečné občanské sekci
         - Kvůli erotice / kritice totality
