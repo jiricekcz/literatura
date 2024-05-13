@@ -6,7 +6,7 @@
     - Jan Palach a Zajíc
 - Ostatní autoři
     - Ladislav Fuks: Spalovač mrtvol
-    - Jan Otčenášek: Romeo a Julie a tma
+    - Jan Otčenášek: Romeo, Julie a tma
     - Arnošt Lustig
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
