@@ -10,7 +10,7 @@
         - Normalizace
 - Ostatní autoři
     - Bohumil Hrabal: Obsluhoval jsem anglického krále
-    - Jan Otčenášek: Romeo a Julie a tma
+    - Jan Otčenášek: Romeo, Julie a tma
     - Arnošt Lustig: Noc a naděje
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
