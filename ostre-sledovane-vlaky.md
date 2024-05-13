@@ -111,3 +111,7 @@
 
 ## Otázka na konec
 - Kde končí disciplína a začíná útlak člověka?
+
+## Zdroje
+- [Na potítku - YouTube](https://www.youtube.com/watch?v=SQaX-4TGvf8&t=960s)
+- [Na potítku (Bohumil Hrabal) - YouTube](https://www.youtube.com/watch?v=m_kUZaRpck8)
