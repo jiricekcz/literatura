@@ -48,10 +48,11 @@
 
 ## Celé dílo
 - 1965
-- Novela
-- Epika
-- Dospívání mladého výpravčího v období protektoriátu
-- Sex, vlaky, partizáni, disciplína
+- Literární žánr: Novela
+- Literární druh: Epika
+- Literární forma: Próza
+- Téma: Dospívání mladého výpravčího v období protektoriátu
+- Motivy: Sex, vlaky, partizáni, disciplína
 - Zajímavosti
     - Podle Hrabalových zkušeností v Kostomlatech
 
