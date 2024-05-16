@@ -1,4 +1,4 @@
-# {{Název díla}} - Shrnutí charakteristiky uměleckého textu
+# Hamlet - Shrnutí charakteristiky uměleckého textu
 
 ## Literárněhistorický kontext
 
