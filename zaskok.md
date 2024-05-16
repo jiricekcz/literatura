@@ -3,11 +3,12 @@
 ## Literárně-historický kontext
 - Divadlo 2. poloviny 20. století
     - Filmy
-        - Jiří Menzel, Miloš Forman
-        - Spalovač mrtvol, 
+        - Jiří Menzel: Spalovač mrtvol
+        - Miloš Forman
     - Rozsáhlá divadla malých forem
         - Malé ansámbly
-        - Semafor - SEdm MAlých FORem, Husa na provázku
+        - Semafor - SEdm MAlých FORem
+        - Husa na provázku
     - Směry
         - Společenský román
         - Budovatelský román
@@ -33,8 +34,7 @@
         - Učitel a redaktor
     - Semináře/referáty
         - Po Voskovcovi a Werichovi
-- Proudy, kam je přiřazován
-    - ostatní autoři proudu
+- Divadlo malých forem
 - Další díla
     - Akt
     - Vyšetřování ztráty třídní knihy
@@ -93,9 +93,6 @@
 - Plukovník Vogeltanz
     - Poblázňený verbíř
     - Láska na první pohled s Vlastou
-- Helga
-    - Není tam
-    - Milenka Vavrocha
 
 ## Vypravěč
 - Není (drama)

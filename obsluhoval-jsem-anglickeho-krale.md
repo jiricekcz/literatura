@@ -1,13 +1,17 @@
 # Obsluhoval jsem anglického krále
 
 ## Literárně-historický kontext
-- 2. Etapa literatury 2. světové
-    - Okupace komunisty
-    - Jan Palach a Zajíc
+- 2. Etapa literatury 2. světové a holokaustu
+    - Každý buď sloužil režimu, nebo proti němu nebrojil
+    - Strach, hněv
+    - Reakce na 2. světovou
+        - Heydrichiáda
+    - 60. léta 20. stol.
+        - Normalizace
 - Ostatní autoři
-    - Jan Otčenášek: Romeo a Julie a tma
-    - Arnošt Lustig
-    - Ladislav Fuks: Spalovač mrtvol
+    - Ladislav Fuks: Spalovač mrtvol, Pan Theodor Mundstock
+    - Jan Otčenášek: Romeo, Julie a tma
+    - Arnošt Lustig: Noc a naděje
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
     - Jaromír Nohavica: Dokud se zpívá
@@ -26,7 +30,6 @@
     - Kulisák
 - Po zákazu dostudoval práva na UK
 - Surrealismus
-- Inspirace: alkohol, vlastní zkušenost
 - Další díla
     - Ostře sledované vlaky
     - Hovory lidí
@@ -34,12 +37,21 @@
         - Filosofie: v každém z nás je něco krásného
     - Slavnosti sněženek
         - Dvě vesnické skupiny se handrkují, jak mají upéct střeleného kance, až jim ho nakonec sní řezník
+    - Pábitelé
+        - Snílci
 - Popisuje život jako takový
     - Jeho hrdinové jsou nezajímaví, prostí
         - Sní o životě, ale žádný nemají
     - Existencialismus I guess
+    - Někdy označován za absolutní realismus
 - Později v životě začal hodně pít
     - Jeho témata začala vážnět
+- Psal velmi specificky
+    - Jako by ve větách dokázal ukázat, že ví všechno na světě
+    - Hrozně dobře se to čte
+    - Psal tak jako krásně, mile, běžně
+    - "plné neotřelého vidění, poznání a hodnocení světa"
+- Bro prostě všechno zažil a teď o tom píše
 
 ## Ukázka
 - Zařazení do knihy
@@ -133,7 +145,6 @@
     - Obecná čeština
 - Vulgarismy
 - Číšnický žargon
-- Sociální skupina postav + vliv na jazyk
 - Prostředky
     - Píše hodně volným stylem
     - Typické pro surrealismus

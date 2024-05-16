@@ -1,13 +1,25 @@
 # Bílá nemoc
 
 ## Literárně-historický kontext
-- Meziválečná literatura
-    - Nárůst fašismu
-    - Chmur
-    - Futurismus, expresionismus, dadaismus
-- Lidem se nelíbí válka, fašismus
-- Ostatní autoři
-    - Jaroslav Hašek, Vladislav Vančura, Josef Čapek
+- Po WWI.
+    - Antiutopie
+        - Společnost se vyvinula špatným směrem
+        - Ray Bradbury: 451 stupňů Fahrenheita
+        - Karel čapek: Válka s mloky
+        - William Golding: Pán much
+    - Existencialismus
+        - Albert Camus: Cizinec
+        - Jean Paul Sartre: Zeď
+        - Franz Kafka: Proměna, Proces
+    - Absurdní drama
+        - Samuel Beckett: Čekání na Godota
+        - Václav Havel: Zahradní slavnost
+        - Eugéne Ionesco: Plešatá zpěvačka
+        - Harold Pinter: Krajina
+- Čeští autoři
+    - Jaroslav Hašek: Osudy dobrého vojáka Švejka za světové války
+    - Vladislav Vančura: Rozmarné léto
+    - Josef Čapek: Dášeňka, čili život štěněte
 
 ## Karel Čapek
 - Praha
@@ -16,14 +28,15 @@
 - FF v Praze
 - Cestovatel, zemřel na zápal plic
 - Demokratický proud
-    - Přispívání do Lidových novin
+    - Spojuje je přispívání do Lidových novin
     - Karel Poláček (Bylo nás pět)
     - Josef Čapek (Stín kapradin)
 - Pragmatismus
     - filosofický směr
     - absolutní pravda neexistuje, pravda je užitečnost
-    - USA - Charles Peirce
-- R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M., 
+    - USA - Charles Peirce: něco o logice relací
+- Antiutopie
+- R.U.R., Dášeňka, Válka s mloky, Hovory s T.G.M.
 - Přítel T.G.M.
 
 ## Ukázka
@@ -37,7 +50,7 @@
 - Literární žánr: Protiválečná tragédie
 - Literární forma: Drama
 - Téma: Ve válkou řízené zemi řádí smrtelná nemoc
-- Motivy: Válkychtivost, mír, strach, manipulace, dosažení dobrého cíle neetickými prostředky
+- Motivy: Válkychtivost, mír, strach, manipulace, dosažení dobrého cíle neetickými prostředky, nemoc, doktoři
 - Zajímavosti
     - Dílo kritizováno nacisty (obviously)
     - Také kritizováno doktory (nevrhalo na ně dobré světlo)
@@ -53,10 +66,14 @@
     - Pacifistický, naivní
     - Pomáhá chudým, neúprosný
     - Objeví lék
+    - Má podmínku, že ošetří chudé a bohaté, kteří aktivně pomohou míru
+    - Umírá na bojišti, snažíce se dostat k Maršálovi, aby ho vyléčil
 - Maršál
     - Diktátor, vojevůdce
     - Odmítá myšlenku míru
     - Nakonec onemocní
+        - Je ochoten přistoupit k míru pro zdraví
+        - Je moc pozdě
 - Baron Krüg
     - Majitel továrny na zbraně
     - Přítel maršála
@@ -64,6 +81,10 @@
 - Sigelius
     - Ředitel nemocnice
     - Touha po slávě a úspěchu
+    - Je proválečný
+    - Podlézá Maršálovi
+- Rodinka
+    - Ukazuje společnost za dění
 
 ## Vypravěč
 - Není

@@ -10,7 +10,7 @@
         - Normalizace
 - Ostatní autoři
     - Bohumil Hrabal: Obsluhoval jsem anglického krále
-    - Jan Otčenášek: Romeo a Julie a tma
+    - Jan Otčenášek: Romeo, Julie a tma
     - Arnošt Lustig: Noc a naděje
     - Josef Škvorecký: Zbabělci
     - Karel Kryl: Veličenstvo Kat
@@ -69,7 +69,6 @@
 - Literární froma: Próza
 - Téma: Pracovník krematoria posedlý smrtí postupně podléhá nacistické ideologii
 - Motivy: smrt, kremace, krevní původ, vlastenectví, šílenství, manipulace, propaganda
-- Zajímavosti
 
 ## Časoprostor
 - Za ranného protektorátu
@@ -112,7 +111,6 @@
 - Rodina celá mluví spisovně kvůli otcovým požadavkům
 - Němečtí vysoce postavení představitelé musí
 - Prostředky
-    - TODO TODO
 
 ## Aktuálnost
 - Nemělo by se zapomínat na hrůzy spojené s nacismem
