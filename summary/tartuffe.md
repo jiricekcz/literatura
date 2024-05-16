@@ -4,7 +4,7 @@
 
 |                Část zkoušky | Odpověď                                                                                                                                                              | Poznámka                                         |
 | --------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
-|     Kontext autorovy tvorby | Typické mollierovo dílo. Kritizuje společenskéé poměry. Podobné např. lakomci                                                                                        | Hodí se cca 2 další konkrétní díla               |
+|     Kontext autorovy tvorby | Typické mollierovo dílo. Kritizuje společenské poměry. Podobné např. lakomci                                                                                        | Hodí se cca 2 další konkrétní díla               |
 |           Literární kontext | Klasicismus, vzhlížení k antickým vzorům. Jean de La Fontaine (bajky), Johann Wolfgang von Goethe (Faust, Utrpení mladého Werthera), Friedrich Schiller (Loupežníci) | Prý 6 jmen autorů, ale to zní jako BS tbh        |
 | Kulturně historický kontext | 17. století, vrchol francouzské šlechty                                                                                                                              | Jediná zajímavá část, ale musí být velmi stručně |
 
