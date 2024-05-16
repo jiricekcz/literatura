@@ -18,7 +18,7 @@
 |                            Motivy | {{Motivy}}                                  | Jednotlivá slova nebo slovní spojení. Může jich být více. Popiš které se vyskytují v ukázce.                                                              |
 |                       Časoprostor | {{Časoprostor}}                             | Pokud se dílo odhrává ve více časech/prostorech, můžeš zmínit, který je v ukázce. Pokud nevíš, drž hubu.                                                  |
 |      Kompoziční výstavba - vnější | {{Vnější kompozice}}                        | Dělení do kapitol atd.                                                                                                                                    |
-|     Kompoziční výstavba - vnitřní | {{Vnitřní kompozice}}                       | Časová kompozice děje - [retrospektiva][retrospektivní]/[chronologičnost][chronologická]                                                                  |
+|     Kompoziční výstavba - vnitřní | {{Vnitřní kompozice}}                       | Časová kompozice děje - [retrospektiva][retrospektivní]/[chronologičnost][chronologická]/[rámcová][kompozice]                                                            |
 |                    Literární druh | {{Druh}}                                    | [Epika]/[Lyrika]/[Drama] - můžeš na ukázce ukázat proč                                                                                                    |
 |                    Literární žánr | {{Žánr}}                                    | [Román]/[Komedie]/[Balada] - při neshodě lze vést diskuzi                                                                                                 |
 |                   Literární forma | {{Forma}}                                   | [Próza]/[Poezie]/[Drama] - většinou naprosto evidentní                                                                                                    |
@@ -35,7 +35,7 @@
 <!-- Vnitřní kompozice -->
 [chronologická]: https://slovnikcestiny.cz/heslo/chronologick%C3%BD/0/34587#:~:text=uspo%C5%99%C3%A1dan%C3%BD%20podle,posloupnost
 [retrospektivní]: https://prirucka.ujc.cas.cz/?slovo=retrospektivn%C3%AD#:~:text=kompozice,s%20jeho%20p%C5%99%C3%AD%C4%8Dinami
-
+[kompozice]: https://is.muni.cz/el/ped/jaro2021/XCJp02/prednaska3.pdf
 
 <!-- Druhy -->
 [epika]: https://cs.wikipedia.org/wiki/Epika#:~:text=je%20liter%C3%A1rn%C3%AD%20druh,vypr%C3%A1v%C4%9Bn%C3%AD%20p%C5%99%C3%ADb%C4%9Bhu
