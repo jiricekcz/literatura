@@ -31,8 +31,8 @@
     - Zemřel v Evropě, se špatným zdrávím na meningitidu
         - Napsal The Ballad of Reading Gaol
             - Depka, homosexuálové to mají těžké
-- Je special a unique
 - Obraz Doriana Graye, Ideální manžel
+- Dekadence
 
 ## Ukázka
 - Zařazení do knihy
