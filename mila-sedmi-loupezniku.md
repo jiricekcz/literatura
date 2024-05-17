@@ -2,6 +2,7 @@
 
 ## Literárně-historický kontext
 - Přelom 19. a 20. století
+    - Moderna
 - Anarchističtí buřiči
     - "Básníci života a vzdoru"
     - Jenom okrajový

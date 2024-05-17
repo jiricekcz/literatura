@@ -25,7 +25,7 @@
 - Časopis Lumír a poté Národní listy
 - Anarchističtí buřiči
 - Další díla
-    - Krysař
+    - Milá sedmi loupežníků
     - Zmoudření Dona Quijota
 - Přináší rozpor mezi mravním ideálem a realitou
     - Vzpoura proti společnosti
@@ -71,7 +71,7 @@
     - Docela zámožný
     - Snoubenec Agnes
 - Radní
-    - Hamižní, 
+    - Hamižní
     - Nechtějí krysaři zaplatit za práci
         - Měl to moc jednoduché
 - Sepp Jorgen
