@@ -85,6 +85,7 @@
 - Ďábel
     - Objevuje se v průběhu
     - Pokouší krysaře obrátit ke zlu
+    - Ukazuje, že krysař není zlý
 - Faustus z Wittenberka
     - Údájně upsal duši ďáblu
     - Jeho kouzla však vidí jen on sám
