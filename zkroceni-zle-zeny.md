@@ -9,7 +9,9 @@
     - Inspirace antikou
 - Humanismus
     - Literární a naukový směr
+    - Inspirace antikou
     - Mezidobový
+    - Opěvování lidských ctností
 - Ostatní autoři renesance
     - Giovani Boccacio: Dekameron
     - Francesco Petrarca: Sonety Lauře
