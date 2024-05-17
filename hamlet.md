@@ -11,7 +11,8 @@
     - Literární a naukový směr
     - Mezidobový
 - Ostatní autoři renesance
-    - Francesco Petrarca: Zpěvník
+    - Giovani Boccacio: Dekameron
+    - Francesco Petrarca: Sonety Lauře
     - Miguel de Cervantes: Don Quijote
     - Francis Bacon: vědecké spisy
     - John Milton: Ztracený ráj
