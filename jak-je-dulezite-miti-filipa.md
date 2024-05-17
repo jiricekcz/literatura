@@ -4,14 +4,19 @@
 - 2. polovina 19. století
     - Dekadence
         - Odproštění od společnosti
+        - Umění pro sebe samo
+        - Sexualita, šílenost, smrt, osamění, tragická láska
     - Estetismus
         - Preferuje krásu umění nad smyslem či významem
     - Symbolismus
 - Ostatní autoři
-    - Guy de Maupassant (Kulička, Miláček)
+    - Guy de Maupassant: Kulička, Miláček
     - Prokletí básníci
-        - Francois Villon (Závěť), Paul Verlaine (Prokletí básníci), Charles Baudelaire (Květy zla)
-        - Otokar Březina (Ruce), Antonín Sova (Pankrác Budecius, kantor)
+        - Francois Villon: Závěť
+        - Paul Verlaine: Prokletí básníci
+        - Charles Baudelaire: Květy zla
+        - Otokar Březina: Ruce
+        - Antonín Sova: Pankrác Budecius, kantor
 
 ## Oscar Wilde
 - Irsko
@@ -66,6 +71,7 @@
         - Vydává se ale za Filipa
     - Oba se s Jackem nezávisle chtějí nechat pokřtít
 - Gwendolina
+    - Sestřenice Algernona
     - Bohatá, zvláštní, trošku ezo
     - Miluje na Jackovi nejvíce to, že se jmenuje Filip
         - Doslova hledala nějakýho Filipa

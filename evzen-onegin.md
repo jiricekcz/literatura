@@ -19,7 +19,7 @@
     - Autoři
         - Alexandr Sergejevič Puškin: Evžen Oněgin
         - Lev Nikolajevič Tolstoj: Anna Karenina
-        - George Gordon Byron: Don Juan, Childe Haroldova pouť
+        - George Gordon Byron: Childe Haroldova pouť
         - Bratři Grimové
             - Němečtí
             - V podstatě sepsali nejznámější pohádky, jako Sněhurka nebo Růženka

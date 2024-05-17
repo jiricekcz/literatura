@@ -4,9 +4,16 @@
 - 16. - 17. století
     - Inspirace antikou, rozumem
     - Klasicismus, humanismus, renesance
+- Anglická renesance
+    - Výtvarný a hudební směr
+    - Inspirace antikou
+- Humanismus
+    - Literární a naukový směr
+    - Mezidobový
 - Ostatní autoři renesance
-    - Francesco Petrarca: Zpěvník
-    - Miguel Incervantes: Don Quijote
+    - Giovani Boccacio: Dekameron
+    - Francesco Petrarca: Sonety Lauře
+    - Miguel de Cervantes: Don Quijote
     - Francis Bacon: vědecké spisy
     - John Milton: Ztracený ráj
     - Thomas More: Utopie
@@ -17,12 +24,7 @@
 - Povoláním dramatik, herec, básník
 - Asi jenom základka ve Strattfordu
 - Placen královnou
-- Anglická renesance
-    - Výtvarný a hudební směr
-    - Inspirace antikou
-- Humanismus
-    - Literární a naukový směr
-    - Mezidobový
+- Renesance + Humanismus
 - Chronologie psaní:
     - Komedie + Historická díla
         - Zkrocení zlé ženy

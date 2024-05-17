@@ -4,25 +4,19 @@
 - 2. polovina 19. století
     - Dekadence
         - Odproštění od společnosti
+        - Umění pro sebe samo
+        - Sexualita, šílenost, smrt, osamění, tragická láska
     - Estetismus
         - Preferuje krásu umění nad smyslem či významem
     - Symbolismus
 - Ostatní autoři
-    - Guy de Maupassant (Kulička, Miláček)
+    - Guy de Maupassant: Kulička, Miláček
     - Prokletí básníci
-        - Francois Villon (Závěť), Paul Verlaine (Prokletí básníci), Charles Baudelaire (Květy zla)
-        - Otokar Březina (Ruce), Antonín Sova (Pankrác Budecius, kantor)
-- W. Shakespeare (Refence v díle)
-    - Přímé i nepřřímé odkazy na jeho díla
-        - Romeo a Julie - hráno v divadle a zároveň paralela dvojité sebevraždy
-        - Hamlet - Dorian nepřímo způsobil smrt své milenky, její bratr se snaží smrt své sestry pomstít
-- Bible (Starý zákon) (Refence v díle)
-    - Dorian říká *Já jsem, kdo já jsem.*
-        - Citace Boha přři konverzeci s Mojžíšem
-        - Poukazuje na to, že se Dorian staví na úroveň Boha - v té době velké no-no
-- Druhá kniha Platónovy ústavy
-    - Dorian ničí svými hříchy svou duši, nikoli své tělo 
-        - *I když nikdo nepřijde na tvé hřříchy a nebude to tak mít vliv na stav tvého těla, bude to mít vliv na stav tvé duše.* - parafráze Sokrata z Platónovy ústavy
+        - Francois Villon: Závěť
+        - Paul Verlaine: Prokletí básníci
+        - Charles Baudelaire: Květy zla
+        - Otokar Březina: Ruce
+        - Antonín Sova: Pankrác Budecius, kantor
 
 ## Oscar Wilde
 - Irsko
@@ -55,6 +49,18 @@
 - Téma: Proměna mladého krasavce v prohnilého zkažence
 - Motivy: Krása, mládí, svědomí, sociální pozlátko, rozkoš, zkaženost
 - Soustředí se převážně na vývoj hlavního hrdiny
+
+- W. Shakespeare (Refence v díle)
+    - Přímé i nepřřímé odkazy na jeho díla
+        - Romeo a Julie - hráno v divadle a zároveň paralela dvojité sebevraždy
+        - Hamlet - Dorian nepřímo způsobil smrt své milenky, její bratr se snaží smrt své sestry pomstít
+- Bible (Starý zákon) (Refence v díle)
+    - Dorian říká *Já jsem, kdo já jsem.*
+        - Citace Boha přři konverzeci s Mojžíšem
+        - Poukazuje na to, že se Dorian staví na úroveň Boha - v té době velké no-no
+- Druhá kniha Platónovy ústavy
+    - Dorian ničí svými hříchy svou duši, nikoli své tělo 
+        - *I když nikdo nepřijde na tvé hřříchy a nebude to tak mít vliv na stav tvého těla, bude to mít vliv na stav tvé duše.* - parafráze Sokrata z Platónovy ústavy
 
 ## Časoprostor
 - Autorova doba
