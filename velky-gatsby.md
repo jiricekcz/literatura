@@ -19,6 +19,7 @@
         - John Steinbeck: O myších a lidech
         - Erich Maria Remarque: Na západní frontě klid
         - Francis Scott Fitzgerald: Velký Gatsby
+        - Ernest Hemingway: Stařec a moře, Komu zvoní hrana
     - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
@@ -52,7 +53,7 @@
 - 1925
 - Milostný román
 - Epika s lyrickými prvky
-- Mladý muž odhodlaně jde pro svůj sen - lásku konkrétní ženy, přes všechny překážky.
+- Mladý muž odhodlaně jde pro svůj sen - lásku konkrétní ženy, přes všechny překážky
 - Láska, přetvářka, párty, bohatství, milenci, válka
 
 ## Časoprostor

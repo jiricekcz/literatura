@@ -19,10 +19,11 @@
         - John Steinbeck: O myších a lidech
         - Erich Maria Remarque: Na západní frontě klid
         - Francis Scott Fitzgerald: Velký Gatsby
+        - Ernest Hemingway: Stařec a moře, Komu zvoní hrana
     - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
-        - Potlačen děj, hodně popisu, úvahy o smyslu života
+        - Potlačen děj, hodně popisu, úvahy o smyslu  života
         - Hrdinově v beznaději, zbyteční
         - Albert Camus: Cizinec
         - Jean Paul Sartre: Zeď
