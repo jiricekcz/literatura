@@ -71,7 +71,7 @@
     - Docela zámožný
     - Snoubenec Agnes
 - Radní
-    - Hamižní
+    - Hamižní, sobečtí, u moci
     - Nechtějí krysaři zaplatit za práci
         - Měl to moc jednoduché
 - Sepp Jorgen
