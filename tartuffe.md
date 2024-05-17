@@ -8,13 +8,13 @@
         - Vzhlížení k antickým vzorům
         - Střízlivý rozum, řád
         - Francie
-            - Jean de La Fontaine (bajky)
+            - Jean de La Fontaine: Bajky
         - Německo (Výmarská literatura)
-            - Johann Wolfgang von Goethe (Faust, Utrpení mladého Werthera)
-            - Friedrich Schiller (Loupežníci)
+            - Johann Wolfgang von Goethe: Faust, Utrpení mladého Werthera
+            - Friedrich Schiller: Loupežníci
         - Hudba
-            - W.A. Mozart
-            - L. van Beethoven
+            - W. A. Mozart: Óda na radost
+            - L. van Beethoven: Osudová
 
 ## Moliére
 - Vlastním jménem Jean-Baptiste Poquelin
@@ -84,10 +84,6 @@
     - Měla si vzít svého milence Valéra
     - Orgon ale na ukázku své důvěry Tartuffovi odkáže Marianu jemu
         - "Víra je nejlepší vlastnost"
-- Paní Pernellová
-    - Stará
-    - Orgonova matka
-    - Tartuffovi celou dobu i přes odhalení věří
 - Dorina
     - Marianina služka
     - Vždy se za ni postavila, když ji potřebovala
@@ -95,7 +91,11 @@
 - Damis 
     - Impulsivně a emocionálně jednající postava
     - Orgonův syn z prvního manželství 
-    - Vyhnán Orgonem kvůli, údajně křřivému, obvinění Tartuffa
+    - Vyhnán Orgonem kvůli, údajně křivému, obvinění Tartuffa
+- Paní Pernellová
+    - Stará
+    - Orgonova matka
+    - Tartuffovi celou dobu i přes odhalení věří
 
 ## Vypravěč
 - Není (drama)

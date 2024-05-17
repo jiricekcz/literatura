@@ -8,13 +8,13 @@
         - Vzhlížení k antickým vzorům
         - Střízlivý rozum, řád
         - Francie
-            - Jean de La Fontaine (bajky)
+            - Jean de La Fontaine: Bajky
         - Německo (Výmarská literatura)
-            - Johann Wolfgang von Goethe (Faust, Utrpení mladého Werthera)
-            - Friedrich Schiller (Loupežníci)
+            - Johann Wolfgang von Goethe: Faust, Utrpení mladého Werthera
+            - Friedrich Schiller: Loupežníci
         - Hudba
-            - W.A. Mozart
-            - L. van Beethoven
+            - W.A. Mozart: Óda na radost
+            - L. van Beethoven: Osudová
 
 ## Moliére
 - Vlastním jménem Jean-Baptiste Poquelin
@@ -58,6 +58,9 @@
     - Chamtivý a bohatý muž 
     - K penězům přišel lichvou
     - Miluje peníze více než cokoliv na světě
+    - Chce provdat a oženit své děti co nejlevněji
+        - Elišku za Anselma
+        - Cleonta za bohatou vdovu
 - Cleont
     - Syn Harpagona
     - Extravagantně se obléká
@@ -89,7 +92,6 @@
 ## Vypravěč
 - Er-forma
 - Typy promluv
-    - Přímá
     - Monolog + Dialog
 - Scénické poznámky
 
