@@ -2,11 +2,11 @@
 
 ## Literárněhistorický kontext
 
-|                Část zkoušky | Odpověď                                                                                                    | Poznámka                                         |
-| --------------------------: | ---------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
-|     Kontext autorovy tvorby | Borovský obecně kritiky a satiru psal. Tohle je jedna z neostřejších jeho kritik. Napsal v exilu v Brixenu | Hodí se cca 2 další konkrétní díla               |
-|           Literární kontext | Národní obrození - Božena Němcová (Babička), Karel Jaromír Erben (Kytice), Karel Hynek Mácha (Máj)         | Prý 6 jmen autorů, ale to zní jako BS tbh        |
-| Kulturně historický kontext | 19. století, přechod od feudalismu, cenzura, nadvláda rakouska                                             | Jediná zajímavá část, ale musí být velmi stručně |
+|                Část zkoušky | Odpověď                                                                                                                                                                         | Poznámka                                         |
+| --------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+|     Kontext autorovy tvorby | Borovský obecně kritiky a satiru psal. Tohle je jedna z neostřejších jeho kritik. Napsal v exilu v Brixenu                                                                      | Hodí se cca 2 další konkrétní díla               |
+|           Literární kontext | Národní obrození - Božena Němcová (Babička), Karel Jaromír Erben (Kytice), Karel Hynek Mácha (Máj), František Palacký (Dějiny národu českého), Karolína Světlá (Vesnický román) | Prý 6 jmen autorů, ale to zní jako BS tbh        |
+| Kulturně historický kontext | 19. století, přechod od feudalismu, cenzura, nadvláda rakouska                                                                                                                  | Jediná zajímavá část, ale musí být velmi stručně |
 
 
 ## Analýza uměleckého textu
@@ -22,7 +22,7 @@
 |                    Literární druh | Lyriko-epika                                                               | [Epika]/[Lyrika]/[Drama] - můžeš na ukázce ukázat proč                                                                                                    |
 |                    Literární žánr | Satirická báseň                                                            | [Román]/[Komedie]/[Balada] - při neshodě lze vést diskuzi                                                                                                 |
 |                   Literární forma | [Poezie] (lidová píseň)                                                    | [Próza]/[Poezie]/[Drama] - většinou naprosto evidentní                                                                                                    |
-|      [Vypravěč]/[lyrický subjekt] | [Er-forma] a [ich-forma] (v ich-formě se objevuje bůh Perun)                                                | Forma je [ich][ich-forma]/[er][er-forma]. Typy jsou například: [vševědoucí vypravěč] nebo [personální vypravěč]                                           |
+|      [Vypravěč]/[lyrický subjekt] | [Er-forma] a [ich-forma] (v ich-formě se objevuje bůh Perun)               | Forma je [ich][ich-forma]/[er][er-forma]. Typy jsou například: [vševědoucí vypravěč] nebo [personální vypravěč]                                           |
 |                           Postavy | Car Vladimír - mocichtivý; Bůh Perun - nejvyšší bůh, nebojí se, poddává se | Pár (<5) hlavních postav a jejich charakteristika. Tuto charakteristiku lze ukázat na ukázce.                                                             |
 |                      Typy promluv | [Přímá řeč], [nepřímá řeč]                                                 | [Monolog]/[Dialog] je typ na základě počtu postav [Přímá řeč]/[Polopřímá řeč]/[Nepřímá řeč]/[Neznačená přímá řeč] je na základě formy. !Ukázat na ukázce! |
 |                  Veršová výstavba | Přerývaný rým (ABCB), 4 verše ve strofě                                    | Vychází z ukázky. Pouze u poezii. Rýmové schéma, počet strof a veršů ve strofě.                                                                           |
