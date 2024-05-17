@@ -5,7 +5,7 @@
 |                Část zkoušky | Odpověď                                                                                                                                                                     | Poznámka                                         |
 | --------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
 |     Kontext autorovy tvorby | Tězce vyložitelné absurdní dílo. Podobně jako ostatní (Zámek, Proces)                                                                                                       | Hodí se cca 2 další konkrétní díla               |
-|           Literární kontext | Pražská německá literatura - Gustav Meyrink (Golem), Max Brod (Hlídka), Rainer Maria Rilke (Nové básně);Existencionalismus - Albert Camus (Cizinec), Jean Paul Sartre (Zeď) | Prý 6 jmen autorů, ale to zní jako BS tbh        |
+|           Literární kontext | Pražská německá literatura - Gustav Meyrink (Golem), Max Brod (Hlídka), Rainer Maria Rilke (Nové básně); Existencionalismus - Albert Camus (Cizinec), Jean Paul Sartre (Zeď) | Prý 6 jmen autorů, ale to zní jako BS tbh        |
 | Kulturně historický kontext | Německý žid žijící v Praze. Cítil se nikam nepatřící. Potlačován Němci.                                                                                                     | Jediná zajímavá část, ale musí být velmi stručně |
 
 
