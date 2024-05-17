@@ -6,7 +6,7 @@
     - Nesmysl války, smrti, společnosti která tohle dopustí
     - Ztracená generace
         - Autoři, kteří se narodili před rokem 1900 a bojovali v, nebo byli významně ovlivněni, WWI.
-        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde využíváno ve smyslu neznaje cesty, smyslu života)
+        - Nikdy se poté nedokázali začlenit zpátky do společnosti kvůli traumatům (ztracená zde jakože neznaje cesty, smyslu života)
         - Ztratili 
             - své místo ve světě
             - pohled na budoucnost
@@ -19,6 +19,7 @@
         - John Steinbeck: O myších a lidech
         - Erich Maria Remarque: Na západní frontě klid
         - Francis Scott Fitzgerald: Velký Gatsby
+        - Ernest Hemingway: Stařec a moře, Komu zvoní hrana
     - Existencialismus
         - Podstata bytí, smysl života
         - Z filozofie
@@ -54,7 +55,7 @@
 - Literární druh: Epika
 - Literární forma: Próza
 - Téma: Americký sen 
-- Mladý muž odhodlaně jde pro svůj sen - lásku konkrétní ženy, přes všechny překážky.
+- Mladý muž odhodlaně jde pro svůj sen - lásku konkrétní ženy, přes všechny překážky
 - Motivy: Láska, přetvářka, párty, bohatství, milenci, válka, neúspěch, osamělost 
 
 ## Časoprostor

@@ -25,7 +25,7 @@
 - Časopis Lumír a poté Národní listy
 - Anarchističtí buřiči
 - Další díla
-    - Krysař
+    - Milá sedmi loupežníků
     - Zmoudření Dona Quijota
 - Přináší rozpor mezi mravním ideálem a realitou
     - Vzpoura proti společnosti
@@ -71,7 +71,7 @@
     - Docela zámožný
     - Snoubenec Agnes
 - Radní
-    - Hamižní, 
+    - Hamižní, sobečtí, u moci
     - Nechtějí krysaři zaplatit za práci
         - Měl to moc jednoduché
 - Sepp Jorgen
@@ -85,6 +85,7 @@
 - Ďábel
     - Objevuje se v průběhu
     - Pokouší krysaře obrátit ke zlu
+    - Ukazuje, že krysař není zlý
 - Faustus z Wittenberka
     - Údájně upsal duši ďáblu
     - Jeho kouzla však vidí jen on sám
