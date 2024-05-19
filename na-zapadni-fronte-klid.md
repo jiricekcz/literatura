@@ -61,7 +61,7 @@
 - Literární žánr: Román
 - Literární směr: Realismus
 - Literární forma: Próza
-- Téma: Nezmyslnost, absurdita a krutost války
+- Téma: Nesmyslnost, absurdita a krutost války
 - Motivy: válka, smrt, přátelství, přežití, zabíjení
 - Myšlneka: Ukázat válku tak, jaká je
 
